@@ -28,6 +28,7 @@
         }
 
         header { padding: 60px 0 10px 0; text-align: center; flex-shrink: 0; }
+        /* 恢复超大标题字号 */
         h1 { font-family: 'Palette Mosaic', system-ui; font-size: 7rem !important; margin: 0 !important; line-height: 1 !important; font-weight: normal !important; display: inline-block; letter-spacing: -1px; color: var(--pencil-black); }
         .sub-title { font-size: 2.2rem; opacity: 0.6; display: block; margin-top: 5px; letter-spacing: 1px; }
 
@@ -67,14 +68,10 @@
         }
 
         .eraser-btn {
-            width: 45px; height: 26px;
-            background: var(--eraser-main);
-            border: 2px solid var(--pencil-black);
-            border-radius: 3px;
-            position: relative; cursor: pointer;
-            transition: transform 0.2s;
-            box-shadow: -2px 2px 0 rgba(0,0,0,0.1);
-            display: inline-block; margin-left: 15px; vertical-align: middle;
+            width: 45px; height: 26px; background: var(--eraser-main);
+            border: 2px solid var(--pencil-black); border-radius: 3px;
+            position: relative; cursor: pointer; transition: transform 0.2s;
+            box-shadow: -2px 2px 0 rgba(0,0,0,0.1); display: inline-block; margin-left: 15px; vertical-align: middle;
         }
         .eraser-btn::before {
             content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 40%;
@@ -94,24 +91,18 @@
 
         table { width: 100%; border-collapse: collapse; }
         th { position: sticky; top: 0; background: var(--paper-white); border-bottom: 4px solid var(--pencil-black); padding: 12px; font-size: 2rem; z-index: 10; text-align: center; cursor: pointer; }
-        th:hover { color: var(--marker-blue); }
-
         td { padding: 10px 8px; border-bottom: 1px dashed #ddd; font-size: 1.8rem; text-align: center; }
-        .game-name { font-size: 1.8rem !important; color: #222; font-weight: bold; text-align: left !important; }
+        .game-name { font-weight: bold; text-align: left !important; }
 
-        .row-index { opacity: 0.3; font-weight: bold; width: 50px; }
         .list-item { padding: 8px 12px; border-bottom: 2px solid rgba(0,0,0,0.03); cursor: pointer; font-size: 1.8rem; text-align: left !important; }
         .list-item:hover { background: #eef7ff; transform: skewX(-2deg); }
-
-        ::-webkit-scrollbar { width: 8px; }
-        ::-webkit-scrollbar-thumb { background: #d4a373; border-radius: 10px; }
     </style>
 </head>
 
 <body>
 <header>
     <h1>BOARD GAME PLANNER</h1>
-    <span class="sub-title">Plan your next game.</span>
+    <span class="sub-title">Plan your next game session.</span>
 </header>
 
 <div class="app-container">
@@ -119,13 +110,11 @@
         <div class="card-header">
             <div class="flex flex-wrap gap-8 items-center">
                 <div class="flex items-center gap-3 flex-1 min-w-[280px]">
-                    <span class="text-3xl font-bold">Command:</span>
-                    <input type="text" id="filterInput" onkeydown="handleKeyPress(event)"
-                           class="line-input"
-                           placeholder="Filter by name... or 'add 1', 'remove 1-3'">
+                    <span class="text-3xl font-bold">Search:</span>
+                    <input type="text" id="filterInput" onkeyup="loadGames()" class="line-input" placeholder="Search by name...">
                 </div>
                 <div class="flex items-center gap-3">
-                    <span class="text-3xl font-bold">Sort By:</span>
+                    <span class="text-3xl font-bold">Sort:</span>
                     <div class="custom-select-wrapper">
                         <div class="custom-select-trigger" onclick="toggleDropdown()">
                             <span id="triggerLabel">Name</span>
@@ -136,10 +125,8 @@
                             <div class="custom-option" onclick="selectSort('RATING', 'Rating')">Rating</div>
                             <div class="custom-option" onclick="selectSort('RANK', 'Rank')">Rank</div>
                             <div class="custom-option" onclick="selectSort('DIFFICULTY', 'Complexity')">Complexity</div>
-                            <div class="custom-option" onclick="selectSort('MIN_PLAYERS', 'Min Players')">Min Players</div>
-                            <div class="custom-option" onclick="selectSort('MAX_PLAYERS', 'Max Players')">Max Players</div>
-                            <div class="custom-option" onclick="selectSort('MIN_TIME', 'Min Time')">Min Time</div>
-                            <div class="custom-option" onclick="selectSort('MAX_TIME', 'Max Time')">Max Time</div>
+                            <div class="custom-option" onclick="selectSort('MAX_PLAYERS', 'Players')">Players</div>
+                            <div class="custom-option" onclick="selectSort('MAX_TIME', 'Time')">Time</div>
                         </div>
                     </div>
                 </div>
@@ -169,95 +156,139 @@
     <div class="selection-storage hand-drawn-card">
         <div class="card-header border-b-2 border-dashed border-gray-400">
             <div class="flex items-center justify-between">
-                <h3 class="text-5xl font-bold">My Play List</h3>
+                <h3 class="text-5xl font-bold">My List</h3>
                 <div class="eraser-btn" title="Clear All" onclick="clearList()"></div>
             </div>
             <p class="text-2xl opacity-50 italic mt-2">(Double-click to remove)</p>
         </div>
         <div class="scroll-area"><ul id="myListContainer"></ul></div>
         <div class="p-6 text-center">
-            <button onclick="exportList()" class="btn-sketch btn-blue text-2xl px-12 h-12">Export</button>
+            <button onclick="exportList()" class="btn-sketch btn-blue text-2xl px-12 h-12">Export List</button>
         </div>
     </div>
 </div>
 
 <script>
+    let allGames = [];
+    let currentList = [];
     let isAscending = true;
     let currentSort = 'NAME';
-    let currentList = [];
 
-    function toggleDropdown() { document.getElementById('selectOptions').classList.toggle('show'); }
-    function selectSort(v, l) { currentSort = v; document.getElementById('triggerLabel').innerText = l; document.getElementById('selectOptions').classList.remove('show'); loadGames(); }
-    window.onclick = e => { if (!e.target.closest('.custom-select-wrapper')) document.getElementById('selectOptions').classList.remove('show'); }
+    window.onload = () => { loadGames(); };
 
-    async function handleKeyPress(event) {
-        if (event.key === "Enter") {
-            const input = document.getElementById('filterInput');
-            const val = input.value.trim();
-            if (val.toLowerCase().startsWith("add ") || val.toLowerCase().startsWith("remove ")) {
-                const cmd = val.split(" ")[0].toLowerCase();
-                const payload = val.substring(cmd.length + 1).trim();
-                if (cmd === "add") await addToMyList(payload);
-                else await removeOneFromList(payload);
-                input.value = "";
-            } else { await loadGames(); }
+    async function loadGames() {
+        const filterInput = document.getElementById('filterInput');
+        const filterVal = filterInput ? filterInput.value.trim().toLowerCase() : "";
+        try {
+            if (allGames.length === 0) {
+                const response = await fetch('collection.json');
+                if (!response.ok) throw new Error("JSON not found");
+                allGames = await response.json();
+            }
+
+            let filtered = allGames.filter(g => (g.objectname || g.name || "").toLowerCase().includes(filterVal));
+
+            // 排序逻辑修复：增加对多种键名的支持
+            filtered.sort((a, b) => {
+                let vA, vB;
+                if (currentSort === 'NAME') {
+                    vA = (a.objectname || a.name || "").toLowerCase();
+                    vB = (b.objectname || b.name || "").toLowerCase();
+                } else if (currentSort === 'RATING') {
+                    vA = parseFloat(a.average || a.baverage || a.rating || 0);
+                    vB = parseFloat(b.average || b.baverage || b.rating || 0);
+                } else if (currentSort === 'RANK') {
+                    vA = parseInt(a.rank || 99999);
+                    vB = parseInt(b.rank || 99999);
+                } else if (currentSort === 'MAX_PLAYERS') {
+                    vA = parseInt(a.maxplayers || a.maxPlayers || 0);
+                    vB = parseInt(b.maxplayers || b.maxPlayers || 0);
+                } else if (currentSort === 'MAX_TIME') {
+                    vA = parseInt(a.playingtime || a.maxplaytime || a.maxTime || 0);
+                    vB = parseInt(b.playingtime || b.maxplaytime || b.maxTime || 0);
+                } else if (currentSort === 'DIFFICULTY') {
+                    vA = parseFloat(a.avgweight || a.difficulty || 0);
+                    vB = parseFloat(b.avgweight || b.difficulty || 0);
+                }
+
+                if (typeof vA === 'string') return isAscending ? vA.localeCompare(vB) : vB.localeCompare(vA);
+                return isAscending ? vA - vB : vB - vA;
+            });
+
+            renderTable(filtered);
+        } catch (e) {
+            console.error(e);
+            document.getElementById('gameBody').innerHTML = `<tr><td colspan="8">Error loading data.</td></tr>`;
         }
     }
 
-    // 核心修复：完善点击表头时的参数映射
-    function clickHeader(f) {
-        const labels = {
-            'NAME':'Name', 'RATING':'Rating', 'RANK':'Rank',
-            'DIFFICULTY':'Complexity', 'MIN_PLAYERS':'Min Players',
-            'MAX_PLAYERS':'Players', 'MIN_TIME':'Min Time', 'MAX_TIME':'Time'
-        };
-        selectSort(f, labels[f] || f);
+    function renderTable(games) {
+        const tbody = document.getElementById('gameBody');
+        tbody.innerHTML = games.map((g, i) => {
+            const name = g.objectname || g.name || "Unknown";
+
+            // 数据显示修复：全字段兼容读取
+            const rating = parseFloat(g.average || g.baverage || g.rating || 0).toFixed(1);
+            const rank = g.rank || 'N/A';
+            const minP = g.minplayers || g.minPlayers || 0;
+            const maxP = g.maxplayers || g.maxPlayers || 0;
+            const time = g.playingtime || g.maxplaytime || g.maxTime || 0;
+            const diff = parseFloat(g.avgweight || g.difficulty || 0).toFixed(1);
+
+            return `
+            <tr>
+                <td class="row-index">${i+1}</td>
+                <td class="game-name">${name}</td>
+                <td style="color:var(--marker-blue); font-weight:bold;">${rating}</td>
+                <td class="opacity-60">#${rank}</td>
+                <td>${minP}-${maxP}</td>
+                <td>${time}m</td>
+                <td style="color:var(--marker-pink); font-weight:bold;">${diff}</td>
+                <td class="text-right">
+                    <button class="btn-sketch btn-green px-4" onclick="addToMyList('${name.replace(/'/g, "\\'")}')">Pick!</button>
+                </td>
+            </tr>`;
+        }).join('');
     }
 
-    function toggleOrder() { isAscending = !isAscending; document.getElementById('orderBtn').innerText = isAscending ? "ASC" : "DESC"; loadGames(); }
+    // 清单管理逻辑修复
+    function addToMyList(n) { if (!currentList.includes(n)) { currentList.push(n); renderMyList(); } }
 
-    async function loadGames() {
-        const filterVal = document.getElementById('filterInput').value.trim();
-        const url = `/api/games?filter=${encodeURIComponent(filterVal)}&sortOn=${currentSort}&asc=${isAscending}`;
-        try {
-            const res = await fetch(url);
-            const games = await res.json();
-            const tbody = document.getElementById('gameBody');
-            tbody.innerHTML = games.map((g, i) => `<tr><td class="row-index">${i+1}</td><td class="game-name">${g.name}</td><td style="color:var(--marker-blue); font-weight:bold;">${g.rating.toFixed(1)}</td><td class="opacity-60">#${g.rank}</td><td>${g.minPlayers}-${g.maxPlayers}</td><td>${g.minPlayTime}m</td><td style="color:var(--marker-pink); font-weight:bold;">${g.difficulty.toFixed(1)}</td><td class="text-right"><button class="btn-sketch btn-green text-xl px-4 h-10" onclick="addToMyList('${g.name.replace(/'/g, "\\'")}')">Pick!</button></td></tr>`).join('');
-        } catch (e) { console.error(e); }
+    function removeOneFromList(n) {
+        currentList = currentList.filter(i => i !== n);
+        renderMyList();
     }
 
-    async function addToMyList(n) {
-        const f = document.getElementById('filterInput').value;
-        const res = await fetch(`/api/list/add?cmd=${encodeURIComponent(n)}&filter=${encodeURIComponent(f)}`, { method: 'POST' });
-        if (res.ok) renderMyList(await res.json());
-    }
-
-    async function removeOneFromList(n) {
-        const res = await fetch(`/api/list/remove?cmd=${encodeURIComponent(n)}`, { method: 'POST' });
-        if (res.ok) renderMyList(await res.json());
-    }
-
-    function renderMyList(l) {
-        currentList = l || [];
+    function renderMyList() {
         const c = document.getElementById('myListContainer');
-        if (currentList.length === 0) { c.innerHTML = '<li class="empty-msg opacity-30 text-center py-10 text-3xl">Empty...</li>'; return; }
-        c.innerHTML = currentList.map((name, i) => `<li class="list-item" ondblclick="removeOneFromList('${name.replace(/'/g, "\\'")}')"><span class="mr-2 opacity-40 font-bold">${i+1}.</span> ${name}</li>`).join('');
+        if (!c) return;
+        if (currentList.length === 0) {
+            c.innerHTML = '<li class="empty-msg opacity-30 text-center py-10 text-3xl">Empty...</li>';
+            return;
+        }
+        c.innerHTML = currentList.map((n, i) => `
+            <li class="list-item" title="Double-click to remove" ondblclick="removeOneFromList('${n.replace(/'/g, "\\'")}')">
+                <span class="mr-2 opacity-40 font-bold">${i+1}.</span> ${n}
+            </li>`).join('');
     }
+
+    // 其他 UI 函数
+    function clearList() { currentList = []; renderMyList(); }
+    function resetPlanner() { document.getElementById('filterInput').value = ''; loadGames(); }
+    function toggleDropdown() { document.getElementById('selectOptions').classList.toggle('show'); }
+    function selectSort(v, l) { currentSort = v; document.getElementById('triggerLabel').innerText = l; document.getElementById('selectOptions').classList.remove('show'); loadGames(); }
+    function clickHeader(f) { const labels = { 'NAME':'Name', 'RATING':'Rating', 'RANK':'Rank', 'MAX_PLAYERS':'Players', 'MAX_TIME':'Time', 'DIFFICULTY':'Complexity' }; selectSort(f, labels[f] || f); }
+    function toggleOrder() { isAscending = !isAscending; document.getElementById('orderBtn').innerText = isAscending ? "ASC" : "DESC"; loadGames(); }
 
     function exportList() {
         if (currentList.length === 0) return;
-        const content = "MY PLAY LIST\n" + currentList.map((n, i) => `${i+1}. ${n}`).join("\n");
-        const blob = new Blob([content], { type: "text/plain" });
+        const blob = new Blob(["MY LIST\n" + currentList.join('\n')], { type: "text/plain" });
         const a = document.createElement("a");
         a.href = URL.createObjectURL(blob);
-        a.download = "boardgame_list.txt";
+        a.download = "my_games.txt";
         a.click();
     }
-
-    async function resetPlanner() { await fetch('/api/reset', { method: 'POST' }); document.getElementById('filterInput').value = ''; loadGames(); }
-    async function clearList() { const res = await fetch('/api/list/clear', { method: 'POST' }); if (res.ok) renderMyList(await res.json()); }
-    window.onload = () => { loadGames(); fetch('/api/list').then(res => res.json()).then(renderMyList); };
+    window.onclick = e => { if (!e.target.closest('.custom-select-wrapper')) { document.getElementById('selectOptions').classList.remove('show'); } }
 </script>
 </body>
 </html>

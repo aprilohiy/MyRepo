@@ -182,82 +182,95 @@
 </div>
 
 <script>
+    let allGames = [];
+    let currentList = [];
     let isAscending = true;
     let currentSort = 'NAME';
-    let currentList = [];
 
-    function toggleDropdown() { document.getElementById('selectOptions').classList.toggle('show'); }
-    function selectSort(v, l) { currentSort = v; document.getElementById('triggerLabel').innerText = l; document.getElementById('selectOptions').classList.remove('show'); loadGames(); }
-    window.onclick = e => { if (!e.target.closest('.custom-select-wrapper')) document.getElementById('selectOptions').classList.remove('show'); }
+    // 页面加载完成后立即启动
+    window.onload = function() {
+        console.log("Initializing Board Game Planner...");
+        loadGames();
+    };
 
-    async function handleKeyPress(event) {
-        if (event.key === "Enter") {
-            const input = document.getElementById('filterInput');
-            const val = input.value.trim();
-            if (val.toLowerCase().startsWith("add ") || val.toLowerCase().startsWith("remove ")) {
-                const cmd = val.split(" ")[0].toLowerCase();
-                const payload = val.substring(cmd.length + 1).trim();
-                if (cmd === "add") await addToMyList(payload);
-                else await removeOneFromList(payload);
-                input.value = "";
-            } else { await loadGames(); }
+    async function loadGames() {
+        const filterInput = document.getElementById('filterInput');
+        const filterVal = filterInput ? filterInput.value.trim().toLowerCase() : "";
+
+        try {
+            // 核心：只读取本地的 collection.json
+            if (allGames.length === 0) {
+                const response = await fetch('collection.json');
+                if (!response.ok) throw new Error("File not found: collection.json");
+                allGames = await response.json();
+                console.log("Loaded total games:", allGames.length);
+            }
+
+            // 过滤与排序逻辑
+            let filtered = allGames.filter(g => {
+                const name = (g.objectname || g.name || "").toLowerCase();
+                return name.includes(filterVal);
+            });
+
+            filtered.sort((a, b) => {
+                let vA = (a.objectname || a.name || "").toLowerCase();
+                let vB = (b.objectname || b.name || "").toLowerCase();
+
+                if (currentSort === 'RATING') {
+                    vA = parseFloat(a.average || a.rating || 0);
+                    vB = parseFloat(b.average || b.rating || 0);
+                } else if (currentSort === 'RANK') {
+                    vA = parseInt(a.rank || 99999);
+                    vB = parseInt(b.rank || 99999);
+                }
+
+                if (typeof vA === 'string') return isAscending ? vA.localeCompare(vB) : vB.localeCompare(vA);
+                return isAscending ? vA - vB : vB - vA;
+            });
+
+            renderTable(filtered);
+        } catch (e) {
+            console.error("Critical Failure:", e);
+            // 如果报错了，在表格里显示出来，方便调试
+            document.getElementById('gameBody').innerHTML = `<tr><td colspan="8" class="text-red-500 text-center py-10">Error: ${e.message}</td></tr>`;
         }
     }
 
-    // 核心修复：完善点击表头时的参数映射
-    function clickHeader(f) {
-        const labels = {
-            'NAME':'Name', 'RATING':'Rating', 'RANK':'Rank',
-            'DIFFICULTY':'Complexity', 'MIN_PLAYERS':'Min Players',
-            'MAX_PLAYERS':'Players', 'MIN_TIME':'Min Time', 'MAX_TIME':'Time'
-        };
-        selectSort(f, labels[f] || f);
+    function renderTable(games) {
+        const tbody = document.getElementById('gameBody');
+        if (!tbody) return;
+        tbody.innerHTML = games.map((g, i) => `
+            <tr>
+                <td class="row-index">${i+1}</td>
+                <td class="game-name">${g.objectname || g.name || "Unknown"}</td>
+                <td style="color:var(--marker-blue); font-weight:bold;">${parseFloat(g.average || g.rating || 0).toFixed(1)}</td>
+                <td class="opacity-60">#${g.rank || 'N/A'}</td>
+                <td>${g.minplayers || 0}-${g.maxplayers || 0}</td>
+                <td>${g.playingtime || 0}m</td>
+                <td style="color:var(--marker-pink); font-weight:bold;">${parseFloat(g.avgweight || g.difficulty || 0).toFixed(1)}</td>
+                <td class="text-right">
+                    <button class="btn-sketch btn-green text-xl px-4 h-10" onclick="addToMyList('${(g.objectname || g.name || "").replace(/'/g, "\\'")}')">Pick!</button>
+                </td>
+            </tr>`).join('');
     }
 
-    function toggleOrder() { isAscending = !isAscending; document.getElementById('orderBtn').innerText = isAscending ? "ASC" : "DESC"; loadGames(); }
-
-    async function loadGames() {
-        const filterVal = document.getElementById('filterInput').value.trim();
-        const url = `/api/games?filter=${encodeURIComponent(filterVal)}&sortOn=${currentSort}&asc=${isAscending}`;
-        try {
-            const res = await fetch(url);
-            const games = await res.json();
-            const tbody = document.getElementById('gameBody');
-            tbody.innerHTML = games.map((g, i) => `<tr><td class="row-index">${i+1}</td><td class="game-name">${g.name}</td><td style="color:var(--marker-blue); font-weight:bold;">${g.rating.toFixed(1)}</td><td class="opacity-60">#${g.rank}</td><td>${g.minPlayers}-${g.maxPlayers}</td><td>${g.minPlayTime}m</td><td style="color:var(--marker-pink); font-weight:bold;">${g.difficulty.toFixed(1)}</td><td class="text-right"><button class="btn-sketch btn-green text-xl px-4 h-10" onclick="addToMyList('${g.name.replace(/'/g, "\\'")}')">Pick!</button></td></tr>`).join('');
-        } catch (e) { console.error(e); }
+    function addToMyList(name) {
+        if (name && !currentList.includes(name)) {
+            currentList.push(name);
+            const container = document.getElementById('myListContainer');
+            container.innerHTML = currentList.map((n, i) => `<li class="list-item" title="Double click to remove" ondblclick="removeFromList('${n}')">${i+1}. ${n}</li>`).join('');
+        }
     }
 
-    async function addToMyList(n) {
-        const f = document.getElementById('filterInput').value;
-        const res = await fetch(`/api/list/add?cmd=${encodeURIComponent(n)}&filter=${encodeURIComponent(f)}`, { method: 'POST' });
-        if (res.ok) renderMyList(await res.json());
+    function removeFromList(name) {
+        currentList = currentList.filter(item => item !== name);
+        const container = document.getElementById('myListContainer');
+        container.innerHTML = currentList.map((n, i) => `<li class="list-item" title="Double click to remove" ondblclick="removeFromList('${n}')">${i+1}. ${n}</li>`).join('');
     }
 
-    async function removeOneFromList(n) {
-        const res = await fetch(`/api/list/remove?cmd=${encodeURIComponent(n)}`, { method: 'POST' });
-        if (res.ok) renderMyList(await res.json());
+    function handleKeyPress(event) {
+        if (event.key === "Enter") loadGames();
     }
-
-    function renderMyList(l) {
-        currentList = l || [];
-        const c = document.getElementById('myListContainer');
-        if (currentList.length === 0) { c.innerHTML = '<li class="empty-msg opacity-30 text-center py-10 text-3xl">Empty...</li>'; return; }
-        c.innerHTML = currentList.map((name, i) => `<li class="list-item" ondblclick="removeOneFromList('${name.replace(/'/g, "\\'")}')"><span class="mr-2 opacity-40 font-bold">${i+1}.</span> ${name}</li>`).join('');
-    }
-
-    function exportList() {
-        if (currentList.length === 0) return;
-        const content = "MY PLAY LIST\n" + currentList.map((n, i) => `${i+1}. ${n}`).join("\n");
-        const blob = new Blob([content], { type: "text/plain" });
-        const a = document.createElement("a");
-        a.href = URL.createObjectURL(blob);
-        a.download = "boardgame_list.txt";
-        a.click();
-    }
-
-    async function resetPlanner() { await fetch('/api/reset', { method: 'POST' }); document.getElementById('filterInput').value = ''; loadGames(); }
-    async function clearList() { const res = await fetch('/api/list/clear', { method: 'POST' }); if (res.ok) renderMyList(await res.json()); }
-    window.onload = () => { loadGames(); fetch('/api/list').then(res => res.json()).then(renderMyList); };
 </script>
 </body>
 </html>

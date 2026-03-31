@@ -1,0 +1,7532 @@
+[
+  {
+    "name": "13 Clues",
+    "rating": 6.60806,
+    "rank": 3365,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.8966
+  },
+  {
+    "name": "15 Days",
+    "rating": 6.43977,
+    "rank": 6461,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.8235
+  },
+  {
+    "name": "24/7: The Game",
+    "rating": 6.20901,
+    "rank": 9188,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.8889
+  },
+  {
+    "name": "61 Feuilles d'automne",
+    "rating": 6.5193,
+    "rank": 8627,
+    "minPlayers": 1,
+    "maxPlayers": 10,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.5
+  },
+  {
+    "name": "7 Wonders",
+    "rating": 7.68391,
+    "rank": 91,
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.317
+  },
+  {
+    "name": "7 Wonders (Second Edition)",
+    "rating": 7.86022,
+    "rank": 243,
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.3142
+  },
+  {
+    "name": "7 Wonders Duel",
+    "rating": 8.09684,
+    "rank": 19,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.2298
+  },
+  {
+    "name": "7 Wonders Duel: Agora",
+    "rating": 8.08901,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.898
+  },
+  {
+    "name": "7 Wonders: Architects",
+    "rating": 7.03947,
+    "rank": 797,
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "minTime": 25,
+    "maxTime": 25,
+    "difficulty": 1.3589
+  },
+  {
+    "name": "8 Masters' Revenge",
+    "rating": 6.17867,
+    "rank": 10616,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 45,
+    "difficulty": 2.4
+  },
+  {
+    "name": "Abalone",
+    "rating": 6.47529,
+    "rank": 1970,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.1564
+  },
+  {
+    "name": "Abandon All Artichokes",
+    "rating": 6.61516,
+    "rank": 1762,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.2764
+  },
+  {
+    "name": "Abandon All Artichokes: Rhubarb Promo",
+    "rating": 6.6613,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Abyss",
+    "rating": 7.32929,
+    "rank": 400,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.3194
+  },
+  {
+    "name": "Age of Civilization",
+    "rating": 7.05273,
+    "rank": 1629,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.2771
+  },
+  {
+    "name": "Agricola",
+    "rating": 7.87723,
+    "rank": 52,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 150,
+    "difficulty": 3.6369
+  },
+  {
+    "name": "Akropolis",
+    "rating": 7.50086,
+    "rank": 478,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.7963
+  },
+  {
+    "name": "Alhambra",
+    "rating": 7.03231,
+    "rank": 563,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.1009
+  },
+  {
+    "name": "All In: A Flip&Write Showdown",
+    "rating": 6.65645,
+    "rank": 14663,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 2.5
+  },
+  {
+    "name": "Almadi",
+    "rating": 6.72979,
+    "rank": 5120,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 2.0769
+  },
+  {
+    "name": "Alveole",
+    "rating": 7.1305,
+    "rank": 4076,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.72
+  },
+  {
+    "name": "Amerigo",
+    "rating": 7.44116,
+    "rank": 516,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 90,
+    "maxTime": 90,
+    "difficulty": 2.9737
+  },
+  {
+    "name": "Amyitis",
+    "rating": 6.906,
+    "rank": 1558,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 3.2174
+  },
+  {
+    "name": "Anachrony",
+    "rating": 8.07777,
+    "rank": 49,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 120,
+    "difficulty": 4.013
+  },
+  {
+    "name": "Apocalypse au Zoo de Carson City",
+    "rating": 5.75925,
+    "rank": 17856,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.1111
+  },
+  {
+    "name": "Applejack",
+    "rating": 6.81103,
+    "rank": 3040,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.9268
+  },
+  {
+    "name": "Architects of the West Kingdom",
+    "rating": 7.73507,
+    "rank": 97,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 80,
+    "difficulty": 2.7515
+  },
+  {
+    "name": "Arctic Scavengers: Base Game+HQ+Recon",
+    "rating": 7.19751,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.25
+  },
+  {
+    "name": "Ark Nova",
+    "rating": 8.53651,
+    "rank": 4,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 90,
+    "maxTime": 150,
+    "difficulty": 3.7556
+  },
+  {
+    "name": "Art Decko",
+    "rating": 6.9088,
+    "rank": 3904,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.2632
+  },
+  {
+    "name": "Art Thief",
+    "rating": 5.17054,
+    "rank": 24223,
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Assyria",
+    "rating": 6.80948,
+    "rank": 2452,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": 2.9859
+  },
+  {
+    "name": "Astra",
+    "rating": 6.69453,
+    "rank": 3463,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 40,
+    "maxTime": 90,
+    "difficulty": 2.1463
+  },
+  {
+    "name": "Automobiles",
+    "rating": 7.20718,
+    "rank": 1084,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 75,
+    "difficulty": 2.2152
+  },
+  {
+    "name": "Automobiles: Racing Season",
+    "rating": 7.52013,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 75,
+    "difficulty": 2.125
+  },
+  {
+    "name": "AVES",
+    "rating": 5.4486,
+    "rank": 23990,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Azul",
+    "rating": 7.75035,
+    "rank": 75,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.7638
+  },
+  {
+    "name": "Baby Dinosaur Rescue",
+    "rating": 4.96761,
+    "rank": 25688,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.1667
+  },
+  {
+    "name": "Backgammon",
+    "rating": 6.56354,
+    "rank": 1507,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.0122
+  },
+  {
+    "name": "Bahama Taxi",
+    "rating": 4.94508,
+    "rank": 24414,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Balloon Pop!",
+    "rating": 4.83456,
+    "rank": 26113,
+    "minPlayers": 1,
+    "maxPlayers": 10,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Bamboozle",
+    "rating": 5.44878,
+    "rank": 22439,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Band of Brothers: Screaming Eagles",
+    "rating": 7.70251,
+    "rank": 2824,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 90,
+    "maxTime": 90,
+    "difficulty": 2.7867
+  },
+  {
+    "name": "Bandada",
+    "rating": 6.28674,
+    "rank": 6831,
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 1.7857
+  },
+  {
+    "name": "Bandido",
+    "rating": 6.42329,
+    "rank": 2329,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.1032
+  },
+  {
+    "name": "BANG!",
+    "rating": 6.48895,
+    "rank": 1601,
+    "minPlayers": 4,
+    "maxPlayers": 7,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 1.6322
+  },
+  {
+    "name": "Bao",
+    "rating": 6.60373,
+    "rank": 9803,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": 3.3529
+  },
+  {
+    "name": "Barbu",
+    "rating": 6.65534,
+    "rank": 9907,
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "minTime": 180,
+    "maxTime": 180,
+    "difficulty": 2.2857
+  },
+  {
+    "name": "B\u00e4renpark",
+    "rating": 7.29629,
+    "rank": 372,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.6589
+  },
+  {
+    "name": "Barrage",
+    "rating": 8.16572,
+    "rank": 37,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 4.1162
+  },
+  {
+    "name": "The Battle for Hill 218",
+    "rating": 6.57903,
+    "rank": 2833,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.7102
+  },
+  {
+    "name": "Battle of LITS",
+    "rating": 5.97936,
+    "rank": 11226,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.8
+  },
+  {
+    "name": "Battle Sheep",
+    "rating": 6.60202,
+    "rank": 1819,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.4571
+  },
+  {
+    "name": "Battleships",
+    "rating": 4.66333,
+    "rank": 26002,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Belote",
+    "rating": 6.59318,
+    "rank": 7139,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.6364
+  },
+  {
+    "name": "Betta",
+    "rating": 5.38837,
+    "rank": 24525,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.2
+  },
+  {
+    "name": "Beyond the Sun",
+    "rating": 7.93417,
+    "rank": 84,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 3.1214
+  },
+  {
+    "name": "Bids",
+    "rating": 5.62778,
+    "rank": 24929,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 50,
+    "difficulty": 1.4
+  },
+  {
+    "name": "Big Monster",
+    "rating": 6.81627,
+    "rank": 4545,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.9286
+  },
+  {
+    "name": "Big Time Soccer",
+    "rating": 3.25289,
+    "rank": 26116,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Big Two",
+    "rating": 6.49124,
+    "rank": 6986,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.7297
+  },
+  {
+    "name": "BIKIDO",
+    "rating": 4.62,
+    "rank": 25329,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 45,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Blackjack",
+    "rating": 4.74953,
+    "rank": 26254,
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.474
+  },
+  {
+    "name": "Blaze",
+    "rating": 5.79995,
+    "rank": 17724,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Blitz",
+    "rating": 5.52648,
+    "rank": 21649,
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.1304
+  },
+  {
+    "name": "Block Arena",
+    "rating": 5.075,
+    "rank": 23760,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Blockers!",
+    "rating": 6.63475,
+    "rank": 2486,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 40,
+    "difficulty": 1.6902
+  },
+  {
+    "name": "Blood Rage",
+    "rating": 7.93143,
+    "rank": 48,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.8771
+  },
+  {
+    "name": "Blooms",
+    "rating": 6.55259,
+    "rank": 9302,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.75
+  },
+  {
+    "name": "Blue Skies",
+    "rating": 6.21049,
+    "rank": 7820,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.0769
+  },
+  {
+    "name": "Bohnanza",
+    "rating": 7.05797,
+    "rank": 523,
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.6683
+  },
+  {
+    "name": "Bombay",
+    "rating": 6.20159,
+    "rank": 4153,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.04
+  },
+  {
+    "name": "Boomerang: Australia",
+    "rating": 6.89718,
+    "rank": 2819,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.5152
+  },
+  {
+    "name": "Boomerang: Europe",
+    "rating": 6.82713,
+    "rank": 3872,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.7647
+  },
+  {
+    "name": "Boomerang: USA",
+    "rating": 6.94881,
+    "rank": 3926,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "boop.",
+    "rating": 7.12641,
+    "rank": 1556,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.3556
+  },
+  {
+    "name": "The Boss",
+    "rating": 6.78763,
+    "rank": 2000,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": 1.7843
+  },
+  {
+    "name": "Boss Quest",
+    "rating": 5.913,
+    "rank": 18342,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.7143
+  },
+  {
+    "name": "Boxes",
+    "rating": 4.69652,
+    "rank": 26074,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.5854
+  },
+  {
+    "name": "Break the Code",
+    "rating": 7.10073,
+    "rank": 2099,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Briscola",
+    "rating": 6.39303,
+    "rank": 6121,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.5
+  },
+  {
+    "name": "Bubblee Pop",
+    "rating": 6.1926,
+    "rank": 4686,
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.325
+  },
+  {
+    "name": "Bubblee Pop: Level Up!",
+    "rating": 6.75466,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Bug",
+    "rating": 6.61662,
+    "rank": 9961,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 2.1429
+  },
+  {
+    "name": "The Builders: Antiquity",
+    "rating": 6.64513,
+    "rank": 2735,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.9155
+  },
+  {
+    "name": "The Builders: Middle Ages",
+    "rating": 6.47752,
+    "rank": 2178,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.7953
+  },
+  {
+    "name": "Burgle Bros.",
+    "rating": 7.43859,
+    "rank": 354,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": 2.3003
+  },
+  {
+    "name": "Butterfly",
+    "rating": 6.71687,
+    "rank": 3892,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.2727
+  },
+  {
+    "name": "Buttons",
+    "rating": 5.57976,
+    "rank": 18850,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.1538
+  },
+  {
+    "name": "BuyWord",
+    "rating": 6.24279,
+    "rank": 5305,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.8046
+  },
+  {
+    "name": "Cacao",
+    "rating": 7.07925,
+    "rank": 694,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.8205
+  },
+  {
+    "name": "Can't Stop",
+    "rating": 6.9115,
+    "rank": 769,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.1484
+  },
+  {
+    "name": "Can't Stop Express",
+    "rating": 6.0852,
+    "rank": 5588,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.2273
+  },
+  {
+    "name": "Canosa",
+    "rating": 5.83224,
+    "rank": 19323,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.5
+  },
+  {
+    "name": "Caper: Europe",
+    "rating": 7.72449,
+    "rank": 519,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 25,
+    "maxTime": 35,
+    "difficulty": 2.1034
+  },
+  {
+    "name": "Caravan",
+    "rating": 6.62129,
+    "rank": 4659,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.7692
+  },
+  {
+    "name": "Carcassonne",
+    "rating": 7.4105,
+    "rank": 224,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.894
+  },
+  {
+    "name": "Carcassonne: Expansion 1 \u2013 Inns & Cathedrals",
+    "rating": 7.63493,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 1.9269
+  },
+  {
+    "name": "Carcassonne: Expansion 2 \u2013 Traders & Builders",
+    "rating": 7.61439,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.0593
+  },
+  {
+    "name": "Carcassonne: Expansion 3 \u2013 The Princess & The Dragon",
+    "rating": 6.80256,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 1.9933
+  },
+  {
+    "name": "Carcassonne: Hunters and Gatherers",
+    "rating": 7.1304,
+    "rank": 622,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 35,
+    "maxTime": 35,
+    "difficulty": 1.9218
+  },
+  {
+    "name": "Carcassonne: The River",
+    "rating": 7.02219,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.6938
+  },
+  {
+    "name": "Cardiceo",
+    "rating": 3.55542,
+    "rank": 26046,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Carnegie",
+    "rating": 8.03096,
+    "rank": 104,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 90,
+    "maxTime": 120,
+    "difficulty": 3.829
+  },
+  {
+    "name": "The Castles of Burgundy",
+    "rating": 8.14058,
+    "rank": 16,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 90,
+    "difficulty": 2.9815
+  },
+  {
+    "name": "The Castles of Burgundy",
+    "rating": 8.45376,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 70,
+    "maxTime": 120,
+    "difficulty": 2.9352
+  },
+  {
+    "name": "Castles of Caleira",
+    "rating": 5.51762,
+    "rank": 22489,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 5,
+    "maxTime": 10,
+    "difficulty": 1.1429
+  },
+  {
+    "name": "Cat Caf\u00e9",
+    "rating": 6.40069,
+    "rank": 4868,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.6
+  },
+  {
+    "name": "CATAN",
+    "rating": 7.09974,
+    "rank": 551,
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 2.2929
+  },
+  {
+    "name": "Caverna: The Cave Farmers",
+    "rating": 7.94788,
+    "rank": 46,
+    "minPlayers": 1,
+    "maxPlayers": 7,
+    "minTime": 30,
+    "maxTime": 210,
+    "difficulty": 3.7791
+  },
+  {
+    "name": "Caylus",
+    "rating": 7.71717,
+    "rank": 105,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 150,
+    "difficulty": 3.7959
+  },
+  {
+    "name": "Celestia",
+    "rating": 6.94565,
+    "rank": 876,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.3271
+  },
+  {
+    "name": "Celestia: Grappling Hook Promo",
+    "rating": 7.26683,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 0,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Century: Golem Edition",
+    "rating": 7.5989,
+    "rank": 249,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.6885
+  },
+  {
+    "name": "Century: Spice Road",
+    "rating": 7.30622,
+    "rank": 340,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.8003
+  },
+  {
+    "name": "Cephalopod",
+    "rating": 5.50089,
+    "rank": 22244,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.4545
+  },
+  {
+    "name": "Chakra",
+    "rating": 6.88034,
+    "rank": 1929,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.7551
+  },
+  {
+    "name": "Champions of Midgard",
+    "rating": 7.72324,
+    "rank": 139,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.6115
+  },
+  {
+    "name": "Checkers (Brazilian)",
+    "rating": 7.19667,
+    "rank": 17292,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Checkers (International)",
+    "rating": 6.45904,
+    "rank": 8425,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": 2.5333
+  },
+  {
+    "name": "Checkers (Russian)",
+    "rating": 6.54388,
+    "rank": 18262,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Checkers (Straight)",
+    "rating": 4.9268,
+    "rank": 26264,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.7211
+  },
+  {
+    "name": "Chess",
+    "rating": 7.20532,
+    "rank": 447,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 3.6553
+  },
+  {
+    "name": "Chess (Chess960)",
+    "rating": 7.63525,
+    "rank": 7203,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 180,
+    "difficulty": 3.2083
+  },
+  {
+    "name": "Chimera Station",
+    "rating": 7.221,
+    "rank": 1208,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 3.1413
+  },
+  {
+    "name": "China Gold",
+    "rating": 5.85391,
+    "rank": 13007,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.28
+  },
+  {
+    "name": "Chinese Checkers",
+    "rating": 5.17599,
+    "rank": 26230,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.5984
+  },
+  {
+    "name": "Chocolate Factory",
+    "rating": 7.08495,
+    "rank": 1655,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": 2.8537
+  },
+  {
+    "name": "Chromino",
+    "rating": 5.47642,
+    "rank": 25033,
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.2353
+  },
+  {
+    "name": "Cicera Bigia",
+    "rating": 6.16667,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 5,
+    "maxTime": 15,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Cinch",
+    "rating": 6.15,
+    "rank": 18356,
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.3333
+  },
+  {
+    "name": "Cinco",
+    "rating": 5.65348,
+    "rank": 20096,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Circle of Life",
+    "rating": 6.68822,
+    "rank": 8929,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Citadels",
+    "rating": 7.25315,
+    "rank": 506,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.0358
+  },
+  {
+    "name": "City of the Big Shoulders",
+    "rating": 7.76425,
+    "rank": 784,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 120,
+    "maxTime": 180,
+    "difficulty": 4.0063
+  },
+  {
+    "name": "Clans of Caledonia",
+    "rating": 7.94515,
+    "rank": 65,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 120,
+    "difficulty": 3.4569
+  },
+  {
+    "name": "Clash of Decks: Starter Kit",
+    "rating": 6.38182,
+    "rank": 5050,
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Cloud City",
+    "rating": 6.49727,
+    "rank": 3603,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.2444
+  },
+  {
+    "name": "Codex Naturalis",
+    "rating": 7.23068,
+    "rank": 990,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.7475
+  },
+  {
+    "name": "Coin Age",
+    "rating": 5.99327,
+    "rank": 5414,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.3462
+  },
+  {
+    "name": "Coinche",
+    "rating": 6.59318,
+    "rank": 7139,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.6364
+  },
+  {
+    "name": "Coins",
+    "rating": 3.67647,
+    "rank": 0,
+    "minPlayers": 3,
+    "maxPlayers": 3,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Color Flush",
+    "rating": 4.57727,
+    "rank": 25871,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 0,
+    "maxTime": 20,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Color Pop",
+    "rating": 5.50507,
+    "rank": 22886,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 1.1957
+  },
+  {
+    "name": "Coloretto",
+    "rating": 6.97982,
+    "rank": 662,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.2744
+  },
+  {
+    "name": "Colt Express",
+    "rating": 7.09498,
+    "rank": 502,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": 1.8297
+  },
+  {
+    "name": "Commander Chess",
+    "rating": 5.86765,
+    "rank": 22040,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Con Sonar!",
+    "rating": 3.39481,
+    "rank": 25968,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.5
+  },
+  {
+    "name": "Concept",
+    "rating": 6.76156,
+    "rank": 1007,
+    "minPlayers": 4,
+    "maxPlayers": 12,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": 1.3743
+  },
+  {
+    "name": "Connect Four",
+    "rating": 4.95894,
+    "rank": 26261,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.1867
+  },
+  {
+    "name": "Connect6",
+    "rating": 6.36258,
+    "rank": 9496,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.5455
+  },
+  {
+    "name": "Conspiracy: Abyss Universe",
+    "rating": 7.23946,
+    "rank": 1142,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.7959
+  },
+  {
+    "name": "Contract Rummy",
+    "rating": 6.47657,
+    "rank": 9475,
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": 1.8571
+  },
+  {
+    "name": "Copenhagen",
+    "rating": 6.97379,
+    "rank": 1328,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 1.6709
+  },
+  {
+    "name": "Cosmos: Empires",
+    "rating": 5.85826,
+    "rank": 19410,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 15,
+    "maxTime": 45,
+    "difficulty": 1.8
+  },
+  {
+    "name": "Coup",
+    "rating": 6.98203,
+    "rank": 644,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.4086
+  },
+  {
+    "name": "Coup: Reformation",
+    "rating": 7.25537,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.5918
+  },
+  {
+    "name": "Coupell",
+    "rating": 6.23488,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 25,
+    "maxTime": 40,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Crazy Eights",
+    "rating": 4.41908,
+    "rank": 26251,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.0674
+  },
+  {
+    "name": "Crazy Farmers and the Cl\u00f4tures \u00c9lectriques",
+    "rating": 5.64423,
+    "rank": 23806,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.8333
+  },
+  {
+    "name": "The Crew: Mission Deep Sea",
+    "rating": 8.16186,
+    "rank": 35,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.0404
+  },
+  {
+    "name": "The Crew: The Quest for Planet Nine",
+    "rating": 7.80833,
+    "rank": 70,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.9545
+  },
+  {
+    "name": "Cribbage",
+    "rating": 7.09043,
+    "rank": 713,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.9026
+  },
+  {
+    "name": "Crime Zoom: A Dirty Objective",
+    "rating": 5.38779,
+    "rank": 22971,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Crusaders: Thy Will Be Done",
+    "rating": 7.47706,
+    "rank": 641,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 60,
+    "difficulty": 2.4519
+  },
+  {
+    "name": "CuBirds",
+    "rating": 6.92843,
+    "rank": 1081,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.3216
+  },
+  {
+    "name": "Cubosaurs",
+    "rating": 6.16652,
+    "rank": 6974,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.2778
+  },
+  {
+    "name": "Daihinmin",
+    "rating": 6.06515,
+    "rank": 16991,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Dark Agent",
+    "rating": 4.5,
+    "rank": 25469,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 3.2
+  },
+  {
+    "name": "Decrypto",
+    "rating": 7.77066,
+    "rank": 96,
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minTime": 15,
+    "maxTime": 45,
+    "difficulty": 1.8101
+  },
+  {
+    "name": "Le Dernier Peuple",
+    "rating": 4.35811,
+    "rank": 24835,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.25
+  },
+  {
+    "name": "Detective Poker",
+    "rating": 3.72045,
+    "rank": 25443,
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "minTime": 25,
+    "maxTime": 50,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Deus",
+    "rating": 7.28101,
+    "rank": 530,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.8248
+  },
+  {
+    "name": "Diablo",
+    "rating": 4.30042,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Diam's",
+    "rating": 5.05889,
+    "rank": 24774,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.875
+  },
+  {
+    "name": "Dice Forge",
+    "rating": 7.22969,
+    "rank": 432,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.9735
+  },
+  {
+    "name": "Dice Forge: Rebellion",
+    "rating": 7.60005,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": 2.4545
+  },
+  {
+    "name": "Dice Hospital",
+    "rating": 7.1255,
+    "rank": 844,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": 2.295
+  },
+  {
+    "name": "Dice Hospital: Community Care",
+    "rating": 7.56817,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": 3.0
+  },
+  {
+    "name": "Dice Hospital: Deluxe Add-Ons Box",
+    "rating": 7.29941,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Dice Hospital: ER \u2013 Emergency Roll",
+    "rating": 6.52489,
+    "rank": 6306,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.9091
+  },
+  {
+    "name": "Dice Summoners",
+    "rating": 5.38905,
+    "rank": 24844,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Dice Theme Park",
+    "rating": 6.64537,
+    "rank": 4548,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 75,
+    "maxTime": 90,
+    "difficulty": 3.0769
+  },
+  {
+    "name": "Diceathlon",
+    "rating": 5.11543,
+    "rank": 25239,
+    "minPlayers": 2,
+    "maxPlayers": 99,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Diced Tomatoes",
+    "rating": 5.15942,
+    "rank": 25238,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.75
+  },
+  {
+    "name": "Dingo's Dreams: Kickstarter Edition",
+    "rating": 6.15625,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Dinner in Paris",
+    "rating": 6.79773,
+    "rank": 3558,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 60,
+    "difficulty": 2.1818
+  },
+  {
+    "name": "Dinosaur Tea Party",
+    "rating": 6.43526,
+    "rank": 3721,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.2083
+  },
+  {
+    "name": "District Noir",
+    "rating": 7.01266,
+    "rank": 2148,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 1.2727
+  },
+  {
+    "name": "Djambi",
+    "rating": 6.54482,
+    "rank": 13969,
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.6667
+  },
+  {
+    "name": "Dodo",
+    "rating": 4.82468,
+    "rank": 25008,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 1.5
+  },
+  {
+    "name": "Dog Lover",
+    "rating": 6.79093,
+    "rank": 3334,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.75
+  },
+  {
+    "name": "Don't Go In There",
+    "rating": 6.65866,
+    "rank": 4427,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 25,
+    "maxTime": 35,
+    "difficulty": 1.6364
+  },
+  {
+    "name": "DONUTS",
+    "rating": 6.43914,
+    "rank": 6168,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.5455
+  },
+  {
+    "name": "Dou Dizhu",
+    "rating": 6.96,
+    "rank": 8636,
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.2143
+  },
+  {
+    "name": "Downforce",
+    "rating": 7.30105,
+    "rank": 419,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 1.7228
+  },
+  {
+    "name": "Downforce: Danger Circuit",
+    "rating": 7.82478,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 1.8696
+  },
+  {
+    "name": "Downforce: Wild Ride",
+    "rating": 7.92217,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Draft Cider",
+    "rating": 4.68382,
+    "rank": 25038,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Draftosaurus",
+    "rating": 7.10164,
+    "rank": 626,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.2409
+  },
+  {
+    "name": "Dragon Bridge",
+    "rating": 5.24643,
+    "rank": 24775,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 2.3333
+  },
+  {
+    "name": "Dragon Castle",
+    "rating": 7.12819,
+    "rank": 765,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.9792
+  },
+  {
+    "name": "Dragon Keeper: The Dungeon",
+    "rating": 5.95081,
+    "rank": 12446,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Dragon Line",
+    "rating": 3.77857,
+    "rank": 25778,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.75
+  },
+  {
+    "name": "Dragonheart",
+    "rating": 6.50306,
+    "rank": 2310,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.3553
+  },
+  {
+    "name": "Dragonwood",
+    "rating": 6.5821,
+    "rank": 2111,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.3426
+  },
+  {
+    "name": "Drones VS Go\u00e9lands",
+    "rating": 6.44748,
+    "rank": 11607,
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Dungeon Petz",
+    "rating": 7.4026,
+    "rank": 318,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 90,
+    "maxTime": 90,
+    "difficulty": 3.621
+  },
+  {
+    "name": "Dungeon Roll",
+    "rating": 6.08847,
+    "rank": 3369,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.3284
+  },
+  {
+    "name": "Dungeon Twister",
+    "rating": 6.81005,
+    "rank": 1347,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.8841
+  },
+  {
+    "name": "Dungeon Twister: 3/4 Players Expansion",
+    "rating": 7.00937,
+    "rank": 0,
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 3.0172
+  },
+  {
+    "name": "Dungeon Twister: Paladins & Dragons",
+    "rating": 7.45179,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 3.0988
+  },
+  {
+    "name": "Earth",
+    "rating": 7.7076,
+    "rank": 186,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": 2.8772
+  },
+  {
+    "name": "Ecliptic Travelers",
+    "rating": 4.625,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 5,
+    "maxTime": 20,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Egocentric World",
+    "rating": 4.34014,
+    "rank": 25667,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 15,
+    "maxTime": 45,
+    "difficulty": 1.0
+  },
+  {
+    "name": "EKONOS (Second Edition)",
+    "rating": 6.59394,
+    "rank": 11488,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Elfenland",
+    "rating": 6.6799,
+    "rank": 1353,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.153
+  },
+  {
+    "name": "Eminent Domain",
+    "rating": 6.98503,
+    "rank": 816,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.5055
+  },
+  {
+    "name": "Eminent Domain: Microcosm",
+    "rating": 6.3351,
+    "rank": 3703,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.9753
+  },
+  {
+    "name": "Equinox",
+    "rating": 6.72752,
+    "rank": 2626,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 40,
+    "maxTime": 60,
+    "difficulty": 2.0476
+  },
+  {
+    "name": "Eriantys",
+    "rating": 6.43412,
+    "rank": 7324,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.2727
+  },
+  {
+    "name": "Eruption",
+    "rating": 6.10197,
+    "rank": 5756,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.0175
+  },
+  {
+    "name": "Escape: The Curse of the Temple",
+    "rating": 6.96312,
+    "rank": 726,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.4762
+  },
+  {
+    "name": "Il \u00e9tait une for\u00eat",
+    "rating": 4.86242,
+    "rank": 25535,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Ethnos",
+    "rating": 7.46086,
+    "rank": 302,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.09
+  },
+  {
+    "name": "Evergreen",
+    "rating": 7.49954,
+    "rank": 1036,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.1286
+  },
+  {
+    "name": "EVL",
+    "rating": 5.59472,
+    "rank": 22070,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 1.5
+  },
+  {
+    "name": "Evo",
+    "rating": 5.28312,
+    "rank": 23636,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.6
+  },
+  {
+    "name": "Exhibition: 20th Century",
+    "rating": 7.00333,
+    "rank": 7897,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 50,
+    "difficulty": 1.75
+  },
+  {
+    "name": "Exit Strategy",
+    "rating": 4.85448,
+    "rank": 25403,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Expedition: Northwest Passage",
+    "rating": 6.96779,
+    "rank": 1926,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.6923
+  },
+  {
+    "name": "Exploration: Warzone",
+    "rating": 3.47146,
+    "rank": 25862,
+    "minPlayers": 2,
+    "maxPlayers": 3,
+    "minTime": 5,
+    "maxTime": 15,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Factum",
+    "rating": 5.12035,
+    "rank": 23272,
+    "minPlayers": 4,
+    "maxPlayers": 12,
+    "minTime": 45,
+    "maxTime": 120,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Fairy Trails",
+    "rating": 6.13324,
+    "rank": 5929,
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 1.1071
+  },
+  {
+    "name": "Fan Tan",
+    "rating": 5.21758,
+    "rank": 25261,
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minTime": 25,
+    "maxTime": 25,
+    "difficulty": 1.2857
+  },
+  {
+    "name": "Farm Club",
+    "rating": 6.14005,
+    "rank": 9299,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.75
+  },
+  {
+    "name": "A Feast for Odin",
+    "rating": 8.17408,
+    "rank": 24,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 120,
+    "difficulty": 3.8642
+  },
+  {
+    "name": "Finity",
+    "rating": 4.92708,
+    "rank": 24556,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 120,
+    "difficulty": 2.5
+  },
+  {
+    "name": "A Fistful of Gold",
+    "rating": 4.76905,
+    "rank": 25691,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.2857
+  },
+  {
+    "name": "Flaming Pyramids",
+    "rating": 5.25698,
+    "rank": 25697,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 1.2222
+  },
+  {
+    "name": "Fleet",
+    "rating": 6.83544,
+    "rank": 1319,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 2.2429
+  },
+  {
+    "name": "Florenza: The Card Game",
+    "rating": 6.74395,
+    "rank": 4646,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.5172
+  },
+  {
+    "name": "Flume",
+    "rating": 4.20577,
+    "rank": 25260,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 3.0
+  },
+  {
+    "name": "Fluxx",
+    "rating": 5.67384,
+    "rank": 10609,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 5,
+    "maxTime": 30,
+    "difficulty": 1.3889
+  },
+  {
+    "name": "For Sale",
+    "rating": 7.25367,
+    "rank": 335,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.2525
+  },
+  {
+    "name": "For the King (and Me)",
+    "rating": 6.88837,
+    "rank": 3889,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.4
+  },
+  {
+    "name": "For-Ex",
+    "rating": 6.29881,
+    "rank": 7527,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 90,
+    "maxTime": 90,
+    "difficulty": 3.8333
+  },
+  {
+    "name": "Forbidden Island",
+    "rating": 6.76129,
+    "rank": 925,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.7357
+  },
+  {
+    "name": "Four Color Cards",
+    "rating": 4.56735,
+    "rank": 24788,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.8333
+  },
+  {
+    "name": "Fractal",
+    "rating": 5.09746,
+    "rank": 23619,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.0
+  },
+  {
+    "name": "French Tarot",
+    "rating": 6.85394,
+    "rank": 3720,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.4808
+  },
+  {
+    "name": "Fruit Picking",
+    "rating": 5.83364,
+    "rank": 12593,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.2857
+  },
+  {
+    "name": "Ga\u00efa",
+    "rating": 6.1929,
+    "rank": 4321,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.9649
+  },
+  {
+    "name": "Gaia Project",
+    "rating": 8.38188,
+    "rank": 12,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 150,
+    "difficulty": 4.3923
+  },
+  {
+    "name": "Gang of Dice",
+    "rating": 6.37956,
+    "rank": 5604,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.1429
+  },
+  {
+    "name": "Gangsta!",
+    "rating": 6.15414,
+    "rank": 17123,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Garden Nation",
+    "rating": 6.82317,
+    "rank": 4358,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 75,
+    "difficulty": 2.56
+  },
+  {
+    "name": "Gear & Piston",
+    "rating": 5.70839,
+    "rank": 13158,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.125
+  },
+  {
+    "name": "Geek Out! Masters",
+    "rating": 5.60055,
+    "rank": 19888,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 0,
+    "difficulty": 1.2222
+  },
+  {
+    "name": "Get on Board: New York & London",
+    "rating": 6.9893,
+    "rank": 1612,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.9
+  },
+  {
+    "name": "Get the MacGuffin",
+    "rating": 5.48346,
+    "rank": 24211,
+    "minPlayers": 2,
+    "maxPlayers": 11,
+    "minTime": 5,
+    "maxTime": 10,
+    "difficulty": 1.1667
+  },
+  {
+    "name": "Ghost at Home",
+    "rating": 4.5969,
+    "rank": 25891,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Gift of Tulips",
+    "rating": 6.72386,
+    "rank": 4857,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.8182
+  },
+  {
+    "name": "Ginkgopolis",
+    "rating": 7.50107,
+    "rank": 388,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.9
+  },
+  {
+    "name": "Gizmos",
+    "rating": 7.38851,
+    "rank": 377,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 50,
+    "difficulty": 2.0213
+  },
+  {
+    "name": "Glow",
+    "rating": 6.99638,
+    "rank": 1744,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.0
+  },
+  {
+    "name": "The Gnomes of Zavandor",
+    "rating": 6.36982,
+    "rank": 6115,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.5714
+  },
+  {
+    "name": "Go",
+    "rating": 7.65176,
+    "rank": 212,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 180,
+    "difficulty": 3.9314
+  },
+  {
+    "name": "Go Fish",
+    "rating": 3.65821,
+    "rank": 26282,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.0565
+  },
+  {
+    "name": "Go Goa",
+    "rating": 5.85529,
+    "rank": 17741,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 25,
+    "maxTime": 30,
+    "difficulty": 1.1429
+  },
+  {
+    "name": "Go Nuts for Donuts",
+    "rating": 6.42411,
+    "rank": 2811,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.1
+  },
+  {
+    "name": "Gold West",
+    "rating": 7.31607,
+    "rank": 1037,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.4545
+  },
+  {
+    "name": "Gold West: Bandits Promo",
+    "rating": 7.05483,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.3333
+  },
+  {
+    "name": "Gold West: Trading Post Promo",
+    "rating": 6.78328,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Gomoku",
+    "rating": 5.96579,
+    "rank": 7925,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 5,
+    "maxTime": 5,
+    "difficulty": 1.8636
+  },
+  {
+    "name": "Gomoku (Caro)",
+    "rating": 6.2551,
+    "rank": 13770,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.9167
+  },
+  {
+    "name": "Good Cop Bad Cop",
+    "rating": 6.56085,
+    "rank": 2270,
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 1.2571
+  },
+  {
+    "name": "Gopher",
+    "rating": 4.26364,
+    "rank": 25490,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 1.5
+  },
+  {
+    "name": "GORami",
+    "rating": 4.38619,
+    "rank": 24816,
+    "minPlayers": 1,
+    "maxPlayers": 3,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.0
+  },
+  {
+    "name": "GOSU",
+    "rating": 6.4919,
+    "rank": 2740,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.4
+  },
+  {
+    "name": "Gosu: Kamakor",
+    "rating": 7.14147,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.8125
+  },
+  {
+    "name": "Grand Bazaar",
+    "rating": 3.2684,
+    "rank": 26175,
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.2857
+  },
+  {
+    "name": "El Grande",
+    "rating": 7.75313,
+    "rank": 92,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 2.9832
+  },
+  {
+    "name": "La Granja",
+    "rating": 7.60978,
+    "rank": 245,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 90,
+    "maxTime": 120,
+    "difficulty": 3.5659
+  },
+  {
+    "name": "Gravity Superstar",
+    "rating": 6.67874,
+    "rank": 4215,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.3077
+  },
+  {
+    "name": "Great Western Trail: Second Edition",
+    "rating": 8.34682,
+    "rank": 29,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 75,
+    "maxTime": 150,
+    "difficulty": 3.7239
+  },
+  {
+    "name": "Guildes",
+    "rating": 6.10568,
+    "rank": 12980,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 35,
+    "difficulty": 1.25
+  },
+  {
+    "name": "Guile",
+    "rating": 4.94265,
+    "rank": 24949,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Gyges",
+    "rating": 6.61681,
+    "rank": 6141,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 2.4167
+  },
+  {
+    "name": "Hack Trick",
+    "rating": 6.35074,
+    "rank": 6370,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 25,
+    "difficulty": 1.4348
+  },
+  {
+    "name": "Hadara",
+    "rating": 7.40508,
+    "rank": 505,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.1989
+  },
+  {
+    "name": "Hades Trap",
+    "rating": 7.0,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Hadron",
+    "rating": 4.1125,
+    "rank": 25510,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Haggis",
+    "rating": 6.99585,
+    "rank": 1170,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.1096
+  },
+  {
+    "name": "Haiclue",
+    "rating": 6.1659,
+    "rank": 8057,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.2
+  },
+  {
+    "name": "Hanabi",
+    "rating": 7.04065,
+    "rank": 535,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 25,
+    "maxTime": 25,
+    "difficulty": 1.6904
+  },
+  {
+    "name": "Hanamikoji",
+    "rating": 7.48234,
+    "rank": 251,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.6841
+  },
+  {
+    "name": "Hand and Foot",
+    "rating": 5.8357,
+    "rank": 12878,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": 1.92
+  },
+  {
+    "name": "Happy City",
+    "rating": 6.59054,
+    "rank": 2748,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.2308
+  },
+  {
+    "name": "Harbour",
+    "rating": 6.49412,
+    "rank": 2050,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.0734
+  },
+  {
+    "name": "Harbour: High Tide Expansion",
+    "rating": 7.24538,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Harbour: Launch Promo Characters",
+    "rating": 6.61453,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Hardback",
+    "rating": 7.17155,
+    "rank": 1139,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": 2.0794
+  },
+  {
+    "name": "Hats",
+    "rating": 6.84856,
+    "rank": 3322,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Hawaii",
+    "rating": 7.1079,
+    "rank": 1038,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.9013
+  },
+  {
+    "name": "Hearts",
+    "rating": 6.49599,
+    "rank": 2131,
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.7467
+  },
+  {
+    "name": "Heckin Hounds",
+    "rating": 5.66104,
+    "rank": 21862,
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "minTime": 30,
+    "maxTime": 90,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Herd",
+    "rating": 3.28929,
+    "rank": 25855,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Herooj",
+    "rating": 5.29762,
+    "rank": 22741,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.5
+  },
+  {
+    "name": "Herrlof",
+    "rating": 6.64933,
+    "rank": 5600,
+    "minPlayers": 2,
+    "maxPlayers": 3,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.3684
+  },
+  {
+    "name": "Hex",
+    "rating": 6.70491,
+    "rank": 4311,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 3.1146
+  },
+  {
+    "name": "Hive",
+    "rating": 7.31995,
+    "rank": 300,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.3161
+  },
+  {
+    "name": "Hive: The Ladybug",
+    "rating": 7.61512,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.1839
+  },
+  {
+    "name": "Hive: The Mosquito",
+    "rating": 7.56462,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.25
+  },
+  {
+    "name": "Hive: The Pillbug",
+    "rating": 7.7296,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.4268
+  },
+  {
+    "name": "Hoarders",
+    "rating": 5.53425,
+    "rank": 22321,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.0714
+  },
+  {
+    "name": "H\u1ed9i Ph\u1ed1",
+    "rating": 5.4228,
+    "rank": 23642,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Hokito",
+    "rating": 6.60335,
+    "rank": 9327,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 6,
+    "maxTime": 20,
+    "difficulty": 1.8
+  },
+  {
+    "name": "Hol's der Geier",
+    "rating": 6.47066,
+    "rank": 2775,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.1674
+  },
+  {
+    "name": "Homesteaders",
+    "rating": 7.19322,
+    "rank": 992,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 3.0391
+  },
+  {
+    "name": "Homesteaders: New Beginnings",
+    "rating": 7.40506,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.5
+  },
+  {
+    "name": "Homeworlds",
+    "rating": 7.5908,
+    "rank": 6354,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 3.3846
+  },
+  {
+    "name": "Hugo: Das Schlossgespenst",
+    "rating": 6.24721,
+    "rank": 3920,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.1337
+  },
+  {
+    "name": "Hungarian Tarokk",
+    "rating": 6.43527,
+    "rank": 16890,
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 3.1667
+  },
+  {
+    "name": "Hydroracers: The Schneider Trophy Epic",
+    "rating": 4.82804,
+    "rank": 25389,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Hypnosia",
+    "rating": 4.51311,
+    "rank": 26276,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.1842
+  },
+  {
+    "name": "I'm the Boss!: The Card Game",
+    "rating": 5.83665,
+    "rank": 15579,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.75
+  },
+  {
+    "name": "Ice and the Sky",
+    "rating": 6.08242,
+    "rank": 11678,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Ice Cold Ice Hockey",
+    "rating": 4.82418,
+    "rank": 25485,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Icebreaker",
+    "rating": 4.90858,
+    "rank": 24073,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 5,
+    "maxTime": 15,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Imhotep",
+    "rating": 7.14393,
+    "rank": 550,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": 2.0152
+  },
+  {
+    "name": "Impasse",
+    "rating": 4.69169,
+    "rank": 24408,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.6
+  },
+  {
+    "name": "In the Year of the Dragon",
+    "rating": 7.30064,
+    "rank": 428,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 75,
+    "maxTime": 100,
+    "difficulty": 3.0876
+  },
+  {
+    "name": "In the Year of the Dragon: 10th Anniversary",
+    "rating": 7.56238,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 75,
+    "maxTime": 100,
+    "difficulty": 2.9118
+  },
+  {
+    "name": "Incan Gold",
+    "rating": 6.83557,
+    "rank": 852,
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.109
+  },
+  {
+    "name": "Indian Chief",
+    "rating": 6.6746,
+    "rank": 13906,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.8
+  },
+  {
+    "name": "Innovation",
+    "rating": 7.29969,
+    "rank": 373,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.7633
+  },
+  {
+    "name": "Isaac",
+    "rating": 6.072,
+    "rank": 15921,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 2.3333
+  },
+  {
+    "name": "The Isle of Cats",
+    "rating": 7.7048,
+    "rank": 138,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.3585
+  },
+  {
+    "name": "It's a Wonderful World",
+    "rating": 7.67579,
+    "rank": 155,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.3216
+  },
+  {
+    "name": "Iwari",
+    "rating": 7.1072,
+    "rank": 1706,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.1549
+  },
+  {
+    "name": "Jaipur",
+    "rating": 7.48708,
+    "rank": 181,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.4628
+  },
+  {
+    "name": "Jekyll vs. Hyde",
+    "rating": 7.25789,
+    "rank": 976,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.8556
+  },
+  {
+    "name": "The Jelly Monster Lab",
+    "rating": 4.43452,
+    "rank": 25631,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Jump Drive",
+    "rating": 7.00507,
+    "rank": 1133,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.9912
+  },
+  {
+    "name": "Jump Gate",
+    "rating": 5.94353,
+    "rank": 12898,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.1538
+  },
+  {
+    "name": "Just Desserts",
+    "rating": 5.81254,
+    "rank": 8708,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 25,
+    "maxTime": 25,
+    "difficulty": 1.3438
+  },
+  {
+    "name": "Just Desserts: Better With Bacon",
+    "rating": 6.51103,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Just Desserts: Just Coffee",
+    "rating": 6.30585,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.5
+  },
+  {
+    "name": "Just One",
+    "rating": 7.60106,
+    "rank": 144,
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "minTime": 20,
+    "maxTime": 60,
+    "difficulty": 1.039
+  },
+  {
+    "name": "K2",
+    "rating": 7.01223,
+    "rank": 791,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.25
+  },
+  {
+    "name": "Kabaleo",
+    "rating": 5.2821,
+    "rank": 25655,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.3529
+  },
+  {
+    "name": "Kahuna",
+    "rating": 6.61314,
+    "rank": 1430,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 40,
+    "difficulty": 2.0502
+  },
+  {
+    "name": "Kalah",
+    "rating": 5.97692,
+    "rank": 4106,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.5996
+  },
+  {
+    "name": "Kami",
+    "rating": 6.19031,
+    "rank": 10145,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.6923
+  },
+  {
+    "name": "Keyflower",
+    "rating": 7.72758,
+    "rank": 101,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 90,
+    "maxTime": 120,
+    "difficulty": 3.3386
+  },
+  {
+    "name": "Khronos",
+    "rating": 6.29413,
+    "rank": 3745,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 90,
+    "maxTime": 90,
+    "difficulty": 3.5616
+  },
+  {
+    "name": "Kinapa",
+    "rating": 5.4825,
+    "rank": 23849,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 5,
+    "maxTime": 15,
+    "difficulty": 1.0
+  },
+  {
+    "name": "King of the Pitch",
+    "rating": 4.77593,
+    "rank": 25772,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "King of Tokyo",
+    "rating": 7.13428,
+    "rank": 422,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.4868
+  },
+  {
+    "name": "King of Tokyo: Power Up!",
+    "rating": 7.59461,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.7135
+  },
+  {
+    "name": "The King's Guild",
+    "rating": 7.05201,
+    "rank": 2355,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 2.3415
+  },
+  {
+    "name": "Kingdom Builder",
+    "rating": 6.9419,
+    "rank": 693,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.0619
+  },
+  {
+    "name": "Kingdomino",
+    "rating": 7.30971,
+    "rank": 288,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 25,
+    "difficulty": 1.2222
+  },
+  {
+    "name": "Klaverjassen",
+    "rating": 6.97107,
+    "rank": 8550,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 75,
+    "maxTime": 75,
+    "difficulty": 2.8889
+  },
+  {
+    "name": "Koi-Koi",
+    "rating": 6.53088,
+    "rank": 5431,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.7727
+  },
+  {
+    "name": "Konane",
+    "rating": 5.63716,
+    "rank": 20361,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Koninkrijk",
+    "rating": 4.53778,
+    "rank": 24815,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 50,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Kory\u014f",
+    "rating": 6.59982,
+    "rank": 2821,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 1.871
+  },
+  {
+    "name": "KQJ",
+    "rating": 4.95238,
+    "rank": 0,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Kraken Up",
+    "rating": 4.40971,
+    "rank": 25371,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Krosmaster Arena 2.0",
+    "rating": 7.1717,
+    "rank": 5174,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.8333
+  },
+  {
+    "name": "Krosmaster: Blast",
+    "rating": 7.10806,
+    "rank": 13215,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Kulami",
+    "rating": 7.02349,
+    "rank": 3590,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.6818
+  },
+  {
+    "name": "L.L.A.M.A.",
+    "rating": 6.49048,
+    "rank": 1797,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.0526
+  },
+  {
+    "name": "The Lady and the Tiger",
+    "rating": 6.30042,
+    "rank": 5550,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Lady's Choice",
+    "rating": 4.65891,
+    "rank": 25226,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Las Vegan",
+    "rating": 5.65157,
+    "rank": 19753,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.2857
+  },
+  {
+    "name": "Legend Raiders",
+    "rating": 6.11124,
+    "rank": 12216,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Legendary Inventors",
+    "rating": 6.3241,
+    "rank": 3932,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 40,
+    "difficulty": 2.0227
+  },
+  {
+    "name": "Legends of Hellas",
+    "rating": 5.13797,
+    "rank": 25156,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 1.2
+  },
+  {
+    "name": "Letter Tycoon",
+    "rating": 6.76827,
+    "rank": 2686,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.9667
+  },
+  {
+    "name": "Lewis & Clark: The Expedition",
+    "rating": 7.44982,
+    "rank": 283,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": 3.329
+  },
+  {
+    "name": "Libertalia",
+    "rating": 7.11896,
+    "rank": 575,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 40,
+    "maxTime": 60,
+    "difficulty": 2.2367
+  },
+  {
+    "name": "Lielow",
+    "rating": 6.3914,
+    "rank": 14256,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 0,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Lifeline",
+    "rating": 5.49005,
+    "rank": 22652,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 90,
+    "difficulty": 1.25
+  },
+  {
+    "name": "Lines of Action",
+    "rating": 7.1305,
+    "rank": 4076,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.72
+  },
+  {
+    "name": "Linkage",
+    "rating": 6.36169,
+    "rank": 12442,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 2.1111
+  },
+  {
+    "name": "Little Factory",
+    "rating": 6.43669,
+    "rank": 4782,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 1.9048
+  },
+  {
+    "name": "Living Forest",
+    "rating": 7.27485,
+    "rank": 725,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": 2.1865
+  },
+  {
+    "name": "Loco Momo",
+    "rating": 6.4107,
+    "rank": 4775,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.1538
+  },
+  {
+    "name": "Logger",
+    "rating": 5.57,
+    "rank": 21390,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.8889
+  },
+  {
+    "name": "Look at the Stars",
+    "rating": 6.11599,
+    "rank": 10372,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.4
+  },
+  {
+    "name": "Lords of Xidit",
+    "rating": 7.08807,
+    "rank": 896,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 90,
+    "maxTime": 90,
+    "difficulty": 2.6471
+  },
+  {
+    "name": "Lost Cities",
+    "rating": 7.23753,
+    "rank": 331,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.4785
+  },
+  {
+    "name": "Lost Explorers",
+    "rating": 5.59821,
+    "rank": 21414,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": 1.75
+  },
+  {
+    "name": "Lost Ruins of Arnak",
+    "rating": 8.07793,
+    "rank": 28,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 120,
+    "difficulty": 2.9147
+  },
+  {
+    "name": "Lost Seas",
+    "rating": 6.75412,
+    "rank": 4705,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.7059
+  },
+  {
+    "name": "Love Letter (Premium Version)",
+    "rating": 7.44357,
+    "rank": 571,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.3178
+  },
+  {
+    "name": "Lucky Numbers",
+    "rating": 6.35962,
+    "rank": 2814,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.1023
+  },
+  {
+    "name": "Lumen: The Lost World",
+    "rating": 5.52124,
+    "rank": 22110,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 45,
+    "maxTime": 0,
+    "difficulty": 2.25
+  },
+  {
+    "name": "Luxor",
+    "rating": 7.19368,
+    "rank": 947,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.9051
+  },
+  {
+    "name": "Machiavelli",
+    "rating": 5.59174,
+    "rank": 21585,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.625
+  },
+  {
+    "name": "Madeira",
+    "rating": 7.54328,
+    "rank": 593,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 150,
+    "difficulty": 4.3109
+  },
+  {
+    "name": "Magic Maze",
+    "rating": 6.95841,
+    "rank": 691,
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.7562
+  },
+  {
+    "name": "Mammalath",
+    "rating": 5.56342,
+    "rank": 21630,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Manhattan",
+    "rating": 6.73272,
+    "rank": 1446,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.9238
+  },
+  {
+    "name": "Mantis Falls",
+    "rating": 7.24264,
+    "rank": 2251,
+    "minPlayers": 2,
+    "maxPlayers": 3,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.6977
+  },
+  {
+    "name": "Mapmaker: The Gerrymandering Game",
+    "rating": 6.68803,
+    "rank": 4622,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.6087
+  },
+  {
+    "name": "Maps of Misterra",
+    "rating": 6.45732,
+    "rank": 8601,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.1818
+  },
+  {
+    "name": "La Marche du Crabe",
+    "rating": 6.66999,
+    "rank": 6159,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.6364
+  },
+  {
+    "name": "Marco Polo II: In the Service of the Khan",
+    "rating": 7.96826,
+    "rank": 171,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 3.3855
+  },
+  {
+    "name": "Marco Polo II: The Caravans",
+    "rating": 7.29271,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Marrakech",
+    "rating": 6.69623,
+    "rank": 1603,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.3429
+  },
+  {
+    "name": "Marram",
+    "rating": 4.06696,
+    "rank": 25853,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 25,
+    "maxTime": 60,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Martian Chess",
+    "rating": 6.5749,
+    "rank": 6417,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.4194
+  },
+  {
+    "name": "Martian Dice",
+    "rating": 6.12603,
+    "rank": 3545,
+    "minPlayers": 2,
+    "maxPlayers": 99,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.067
+  },
+  {
+    "name": "Mascarade",
+    "rating": 6.57283,
+    "rank": 1529,
+    "minPlayers": 2,
+    "maxPlayers": 13,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.5259
+  },
+  {
+    "name": "Mattock",
+    "rating": 5.69481,
+    "rank": 21536,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 5,
+    "maxTime": 40,
+    "difficulty": 2.25
+  },
+  {
+    "name": "Mech A Dream",
+    "rating": 6.60451,
+    "rank": 8984,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Medina (Second Edition)",
+    "rating": 7.22074,
+    "rank": 1503,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.3768
+  },
+  {
+    "name": "Medo",
+    "rating": 5.44444,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 40,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Megalomania Card Game",
+    "rating": 5.17241,
+    "rank": 23965,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Memoir '44",
+    "rating": 7.53668,
+    "rank": 191,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.275
+  },
+  {
+    "name": "Mercado de Lisboa",
+    "rating": 6.56744,
+    "rank": 2517,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 2.0814
+  },
+  {
+    "name": "Meridians",
+    "rating": 6.8182,
+    "rank": 11802,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Metro",
+    "rating": 6.37304,
+    "rank": 2285,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.6858
+  },
+  {
+    "name": "Metromania",
+    "rating": 5.77502,
+    "rank": 14817,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.4483
+  },
+  {
+    "name": "Micro Dojo",
+    "rating": 6.7218,
+    "rank": 5667,
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 2.0714
+  },
+  {
+    "name": "Mijnlieff",
+    "rating": 7.0526,
+    "rank": 4181,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.6923
+  },
+  {
+    "name": "Monster Factory",
+    "rating": 5.85294,
+    "rank": 9362,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.15
+  },
+  {
+    "name": "Morocco",
+    "rating": 6.39915,
+    "rank": 7845,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.3636
+  },
+  {
+    "name": "The Mother Road: Route 66",
+    "rating": 5.88147,
+    "rank": 15676,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 1.2857
+  },
+  {
+    "name": "MOW",
+    "rating": 6.13223,
+    "rank": 4709,
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.0813
+  },
+  {
+    "name": "Mr. Jack",
+    "rating": 6.97515,
+    "rank": 706,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.1719
+  },
+  {
+    "name": "M\u00fc & More",
+    "rating": 7.15236,
+    "rank": 1677,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.5591
+  },
+  {
+    "name": "Murus Gallicus",
+    "rating": 6.956,
+    "rank": 8651,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.9167
+  },
+  {
+    "name": "My City",
+    "rating": 7.64489,
+    "rank": 237,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.9825
+  },
+  {
+    "name": "My First Castle Panic",
+    "rating": 6.4277,
+    "rank": 4617,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.12
+  },
+  {
+    "name": "My Shelfie",
+    "rating": 6.57075,
+    "rank": 2772,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.4151
+  },
+  {
+    "name": "Nanga Parbat",
+    "rating": 6.79028,
+    "rank": 3437,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.8077
+  },
+  {
+    "name": "Narabi",
+    "rating": 6.01017,
+    "rank": 9004,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.2857
+  },
+  {
+    "name": "Nautilus",
+    "rating": 6.09478,
+    "rank": 10506,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 25,
+    "maxTime": 25,
+    "difficulty": 1.6
+  },
+  {
+    "name": "Neutreeko",
+    "rating": 5.29526,
+    "rank": 24516,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.75
+  },
+  {
+    "name": "Neutron",
+    "rating": 6.10884,
+    "rank": 12047,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 2.1
+  },
+  {
+    "name": "New Frontiers",
+    "rating": 7.42374,
+    "rank": 807,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 75,
+    "difficulty": 2.9515
+  },
+  {
+    "name": "Next Station: London",
+    "rating": 7.47338,
+    "rank": 676,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 25,
+    "maxTime": 30,
+    "difficulty": 1.4865
+  },
+  {
+    "name": "Niagara",
+    "rating": 6.45702,
+    "rank": 1847,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.8378
+  },
+  {
+    "name": "Nicodemus",
+    "rating": 6.35709,
+    "rank": 7113,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.4444
+  },
+  {
+    "name": "Nidavellir",
+    "rating": 7.59841,
+    "rank": 226,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.1065
+  },
+  {
+    "name": "Nidavellir: Thingvellir",
+    "rating": 7.82932,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.5789
+  },
+  {
+    "name": "Nile",
+    "rating": 5.99785,
+    "rank": 9539,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.5517
+  },
+  {
+    "name": "Nine Men's Morris",
+    "rating": 5.37455,
+    "rank": 25969,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.8102
+  },
+  {
+    "name": "Ninety-Nine",
+    "rating": 7.18418,
+    "rank": 3918,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.1111
+  },
+  {
+    "name": "Ninety-Nine",
+    "rating": 4.58049,
+    "rank": 25912,
+    "minPlayers": 2,
+    "maxPlayers": 13,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Nippon",
+    "rating": 7.63872,
+    "rank": 458,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 3.777
+  },
+  {
+    "name": "No Thanks!",
+    "rating": 7.07729,
+    "rank": 509,
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.1322
+  },
+  {
+    "name": "Noah",
+    "rating": 6.33439,
+    "rank": 4133,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.3429
+  },
+  {
+    "name": "Noir: Killer versus Inspector",
+    "rating": 6.45803,
+    "rank": 3537,
+    "minPlayers": 2,
+    "maxPlayers": 9,
+    "minTime": 15,
+    "maxTime": 60,
+    "difficulty": 1.6
+  },
+  {
+    "name": "None Shall Pass!",
+    "rating": 5.91513,
+    "rank": 18163,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 60,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "North American Railways",
+    "rating": 6.60921,
+    "rank": 5166,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": 2.4118
+  },
+  {
+    "name": "Not Alone",
+    "rating": 6.97056,
+    "rank": 880,
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.9819
+  },
+  {
+    "name": "Nova Luna",
+    "rating": 7.28439,
+    "rank": 583,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.8729
+  },
+  {
+    "name": "Number Drop",
+    "rating": 6.11703,
+    "rank": 8174,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.4286
+  },
+  {
+    "name": "NXS",
+    "rating": 6.88092,
+    "rank": 14483,
+    "minPlayers": 2,
+    "maxPlayers": 3,
+    "minTime": 15,
+    "maxTime": 60,
+    "difficulty": 2.0
+  },
+  {
+    "name": "OASIS New Hope",
+    "rating": 5.90254,
+    "rank": 18129,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 25,
+    "maxTime": 40,
+    "difficulty": 1.7143
+  },
+  {
+    "name": "Obsession",
+    "rating": 8.15467,
+    "rank": 62,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 90,
+    "difficulty": 3.1162
+  },
+  {
+    "name": "Off the Rails",
+    "rating": 6.24706,
+    "rank": 7867,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.8
+  },
+  {
+    "name": "Oh Hell!",
+    "rating": 6.85098,
+    "rank": 2556,
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.7288
+  },
+  {
+    "name": "ONE",
+    "rating": 5.04968,
+    "rank": 24462,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 10,
+    "maxTime": 180,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Onitama",
+    "rating": 7.35185,
+    "rank": 317,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 1.648
+  },
+  {
+    "name": "Oriflamme",
+    "rating": 7.11779,
+    "rank": 1097,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.6719
+  },
+  {
+    "name": "Origin",
+    "rating": 6.60515,
+    "rank": 3431,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.1333
+  },
+  {
+    "name": "Othello",
+    "rating": 6.13438,
+    "rank": 3183,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.0686
+  },
+  {
+    "name": "Oust",
+    "rating": 5.64304,
+    "rank": 22138,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.8235
+  },
+  {
+    "name": "Outlaws: Last Man Standing",
+    "rating": 5.97186,
+    "rank": 13517,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 1.8889
+  },
+  {
+    "name": "P.I.",
+    "rating": 6.70288,
+    "rank": 2508,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.2474
+  },
+  {
+    "name": "Paint the Roses",
+    "rating": 7.23956,
+    "rank": 1537,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 50,
+    "maxTime": 70,
+    "difficulty": 2.4634
+  },
+  {
+    "name": "Palace",
+    "rating": 5.94076,
+    "rank": 11311,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.0833
+  },
+  {
+    "name": "The Palaces of Carrara",
+    "rating": 7.13386,
+    "rank": 964,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.5926
+  },
+  {
+    "name": "Pandemic",
+    "rating": 7.53752,
+    "rank": 145,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.4008
+  },
+  {
+    "name": "Panic Lab",
+    "rating": 6.03073,
+    "rank": 5074,
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.3077
+  },
+  {
+    "name": "Papayoo",
+    "rating": 6.04915,
+    "rank": 7644,
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.1
+  },
+  {
+    "name": "Paris Connection",
+    "rating": 6.64893,
+    "rank": 2034,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.8194
+  },
+  {
+    "name": "PARKS",
+    "rating": 7.67354,
+    "rank": 141,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.1242
+  },
+  {
+    "name": "PARKS: Wildlife",
+    "rating": 7.99523,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 40,
+    "maxTime": 70,
+    "difficulty": 2.3077
+  },
+  {
+    "name": "Patchwork",
+    "rating": 7.59729,
+    "rank": 118,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.6035
+  },
+  {
+    "name": "Pearlad\u00f6ra",
+    "rating": 6.33339,
+    "rank": 4455,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.9718
+  },
+  {
+    "name": "Penalty Challenge",
+    "rating": 3.5422,
+    "rank": 26085,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Penny Press",
+    "rating": 6.435,
+    "rank": 4226,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.1944
+  },
+  {
+    "name": "Pente",
+    "rating": 6.64731,
+    "rank": 2290,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.0935
+  },
+  {
+    "name": "Perikles",
+    "rating": 6.8789,
+    "rank": 2160,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": 3.281
+  },
+  {
+    "name": "Perudo",
+    "rating": 6.91468,
+    "rank": 824,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.2539
+  },
+  {
+    "name": "Photosynthesis",
+    "rating": 6.9768,
+    "rank": 679,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.2591
+  },
+  {
+    "name": "Pier 18",
+    "rating": 5.62537,
+    "rank": 19750,
+    "minPlayers": 2,
+    "maxPlayers": 3,
+    "minTime": 5,
+    "maxTime": 15,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Pinochle",
+    "rating": 6.86658,
+    "rank": 3223,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.3
+  },
+  {
+    "name": "Piraten Kapern",
+    "rating": 6.32708,
+    "rank": 3439,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.0989
+  },
+  {
+    "name": "Pitch",
+    "rating": 6.83282,
+    "rank": 6279,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.7727
+  },
+  {
+    "name": "Please Fix the Teleporter",
+    "rating": 5.19138,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 5,
+    "maxTime": 15,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Point Salad",
+    "rating": 7.15177,
+    "rank": 500,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.1414
+  },
+  {
+    "name": "Polis: Fight for the Hegemony",
+    "rating": 7.51464,
+    "rank": 1127,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 90,
+    "maxTime": 120,
+    "difficulty": 3.6784
+  },
+  {
+    "name": "Ponte del Diavolo",
+    "rating": 6.47606,
+    "rank": 3894,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 25,
+    "maxTime": 25,
+    "difficulty": 2.3267
+  },
+  {
+    "name": "Potion Explosion",
+    "rating": 7.12781,
+    "rank": 543,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.7781
+  },
+  {
+    "name": "Potion Explosion: The Fifth Ingredient",
+    "rating": 7.51371,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.9333
+  },
+  {
+    "name": "Puerto Rico",
+    "rating": 7.92011,
+    "rank": 44,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 90,
+    "maxTime": 150,
+    "difficulty": 3.2694
+  },
+  {
+    "name": "Puerto Rico: Expansion I \u2013 New Buildings",
+    "rating": 7.54698,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 90,
+    "maxTime": 90,
+    "difficulty": 3.2167
+  },
+  {
+    "name": "Puerto Rico: Expansion II \u2013 The Nobles",
+    "rating": 7.48256,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 90,
+    "maxTime": 90,
+    "difficulty": 3.25
+  },
+  {
+    "name": "Pugs in Mugs",
+    "rating": 4.79892,
+    "rank": 25930,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 45,
+    "difficulty": 1.2
+  },
+  {
+    "name": "Pylos",
+    "rating": 6.30769,
+    "rank": 3757,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.918
+  },
+  {
+    "name": "Pyramid Poker",
+    "rating": 6.32029,
+    "rank": 4943,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.2143
+  },
+  {
+    "name": "Pyrga",
+    "rating": 6.44015,
+    "rank": 15396,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 5,
+    "maxTime": 15,
+    "difficulty": 1.5
+  },
+  {
+    "name": "Quantik",
+    "rating": 6.02769,
+    "rank": 11632,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.5714
+  },
+  {
+    "name": "Quantum",
+    "rating": 7.23602,
+    "rank": 675,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.4742
+  },
+  {
+    "name": "Quantum: The Void",
+    "rating": 7.47707,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.5
+  },
+  {
+    "name": "Quarto",
+    "rating": 6.89055,
+    "rank": 1094,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.8933
+  },
+  {
+    "name": "Queens & Kings ...A Checkers Game",
+    "rating": 3.5814,
+    "rank": 25543,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 90,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Quetzal",
+    "rating": 6.80135,
+    "rank": 3397,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 75,
+    "difficulty": 2.0811
+  },
+  {
+    "name": "Quinque",
+    "rating": 5.24583,
+    "rank": 24013,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Quintus",
+    "rating": 5.9,
+    "rank": 0,
+    "minPlayers": 5,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 60,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Quoridor",
+    "rating": 6.66117,
+    "rank": 1487,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.8337
+  },
+  {
+    "name": "Race for the Galaxy",
+    "rating": 7.74486,
+    "rank": 77,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.9904
+  },
+  {
+    "name": "Race for the Galaxy: Alien Artifacts",
+    "rating": 7.51351,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.9367
+  },
+  {
+    "name": "Race for the Galaxy: New Worlds Promo Cards",
+    "rating": 8.27037,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 3.2
+  },
+  {
+    "name": "Race for the Galaxy: Rebel vs Imperium",
+    "rating": 7.93045,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 3.0784
+  },
+  {
+    "name": "Race for the Galaxy: The Brink of War",
+    "rating": 7.76302,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 3.369
+  },
+  {
+    "name": "Race for the Galaxy: The Gathering Storm",
+    "rating": 8.08878,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.9889
+  },
+  {
+    "name": "Race for the Galaxy: Xeno Invasion",
+    "rating": 7.89365,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 3.2812
+  },
+  {
+    "name": "Rage",
+    "rating": 6.18092,
+    "rank": 4271,
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.4641
+  },
+  {
+    "name": "Railroad Ink: Blazing Red Edition",
+    "rating": 7.08988,
+    "rank": 843,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.4717
+  },
+  {
+    "name": "Railroad Ink: Deep Blue Edition",
+    "rating": 7.18052,
+    "rank": 556,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.4678
+  },
+  {
+    "name": "Railways of the World",
+    "rating": 7.66972,
+    "rank": 204,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": 3.0159
+  },
+  {
+    "name": "Rainbow",
+    "rating": 5.85363,
+    "rank": 14003,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.2
+  },
+  {
+    "name": "Rainforest",
+    "rating": 6.78848,
+    "rank": 5682,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.9375
+  },
+  {
+    "name": "Rallyman: DIRT",
+    "rating": 7.62022,
+    "rank": 2941,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.32
+  },
+  {
+    "name": "Rallyman: GT",
+    "rating": 7.18284,
+    "rank": 1125,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.225
+  },
+  {
+    "name": "Raubbau",
+    "rating": 4.94286,
+    "rank": 0,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 2.5
+  },
+  {
+    "name": "Rauha",
+    "rating": 7.05265,
+    "rank": 3532,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.3793
+  },
+  {
+    "name": "Red7",
+    "rating": 6.87032,
+    "rank": 874,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 5,
+    "maxTime": 30,
+    "difficulty": 1.687
+  },
+  {
+    "name": "Redstone",
+    "rating": 4.68385,
+    "rank": 24199,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Reflections in the Looking Glass",
+    "rating": 5.41042,
+    "rank": 22293,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Regicide",
+    "rating": 7.45495,
+    "rank": 620,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.8934
+  },
+  {
+    "name": "Regidice",
+    "rating": 4.18261,
+    "rank": 25827,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Remember When ...",
+    "rating": 5.83429,
+    "rank": 22471,
+    "minPlayers": 3,
+    "maxPlayers": 9,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.25
+  },
+  {
+    "name": "Res Arcana",
+    "rating": 7.65105,
+    "rank": 149,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.6388
+  },
+  {
+    "name": "Rest In Peace",
+    "rating": 6.11707,
+    "rank": 9794,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.5556
+  },
+  {
+    "name": "Rift Valley Reserve",
+    "rating": 4.73333,
+    "rank": 25058,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Riftforce",
+    "rating": 7.29798,
+    "rank": 1304,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 2.1029
+  },
+  {
+    "name": "Riichi Mahjong",
+    "rating": 8.31726,
+    "rank": 2766,
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 3.5476
+  },
+  {
+    "name": "Rive",
+    "rating": 4.06364,
+    "rank": 24842,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 45,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Robots Ate Our Pizza",
+    "rating": 4.54986,
+    "rank": 25142,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Roll for the Galaxy",
+    "rating": 7.59033,
+    "rank": 142,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.7772
+  },
+  {
+    "name": "Roll Into Town",
+    "rating": 5.26729,
+    "rank": 24218,
+    "minPlayers": 1,
+    "maxPlayers": 100,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.8333
+  },
+  {
+    "name": "Roll to the Top: Journeys",
+    "rating": 6.58302,
+    "rank": 5517,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.1111
+  },
+  {
+    "name": "Roll'n Bump",
+    "rating": 6.21274,
+    "rank": 8376,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.1429
+  },
+  {
+    "name": "Rolled West",
+    "rating": 5.96186,
+    "rank": 9085,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.4545
+  },
+  {
+    "name": "Rolling Pins",
+    "rating": 4.53763,
+    "rank": 25837,
+    "minPlayers": 1,
+    "maxPlayers": 100,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.2
+  },
+  {
+    "name": "Room 25",
+    "rating": 6.7018,
+    "rank": 1467,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.9286
+  },
+  {
+    "name": "The Ruhr: A Story of Coal Trade",
+    "rating": 6.86693,
+    "rank": 4004,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": 3.6667
+  },
+  {
+    "name": "Russian Railroads",
+    "rating": 7.73585,
+    "rank": 119,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": 3.4052
+  },
+  {
+    "name": "Saboteur",
+    "rating": 6.54656,
+    "rank": 1385,
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.3203
+  },
+  {
+    "name": "Saboteur 2",
+    "rating": 6.93901,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 12,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.5225
+  },
+  {
+    "name": "Saboteur: Selfish Dwarf",
+    "rating": 6.74371,
+    "rank": 0,
+    "minPlayers": 3,
+    "maxPlayers": 10,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Saint Petersburg",
+    "rating": 7.27147,
+    "rank": 416,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.4395
+  },
+  {
+    "name": "Saint Poker",
+    "rating": 5.97984,
+    "rank": 19205,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 1.75
+  },
+  {
+    "name": "Samarkand",
+    "rating": 6.40409,
+    "rank": 4652,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": 1.9375
+  },
+  {
+    "name": "Santorini",
+    "rating": 7.36361,
+    "rank": 266,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.7268
+  },
+  {
+    "name": "Sapiens",
+    "rating": 6.30828,
+    "rank": 4747,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.6667
+  },
+  {
+    "name": "Sapiens: Double Tiles",
+    "rating": 7.32467,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 0,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Sapiens: Mountains",
+    "rating": 7.21833,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 0,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Sasaki (\uc0ac\uc0ac\ub07c)",
+    "rating": 5.4,
+    "rank": 0,
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Say Anything",
+    "rating": 6.70924,
+    "rank": 1486,
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.0906
+  },
+  {
+    "name": "Schr\u00f6dinger's Cats",
+    "rating": 5.76127,
+    "rank": 10257,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 1.25
+  },
+  {
+    "name": "Scopa",
+    "rating": 6.57037,
+    "rank": 3791,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.4675
+  },
+  {
+    "name": "Scriptoria",
+    "rating": 6.81286,
+    "rank": 21509,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.5
+  },
+  {
+    "name": "Sea Salt & Paper",
+    "rating": 7.47264,
+    "rank": 421,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.4433
+  },
+  {
+    "name": "Seasons",
+    "rating": 7.35117,
+    "rank": 303,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.7807
+  },
+  {
+    "name": "Seasons: Enchanted Kingdom",
+    "rating": 7.76273,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.686
+  },
+  {
+    "name": "Seasons: Path of Destiny",
+    "rating": 7.86098,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.6512
+  },
+  {
+    "name": "Secret Moon",
+    "rating": 5.65026,
+    "rank": 19167,
+    "minPlayers": 5,
+    "maxPlayers": 8,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.1667
+  },
+  {
+    "name": "Secret Moon: Thief Promo Card",
+    "rating": 7.0,
+    "rank": 0,
+    "minPlayers": 5,
+    "maxPlayers": 8,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Seikatsu",
+    "rating": 6.98543,
+    "rank": 2007,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.4861
+  },
+  {
+    "name": "Senet",
+    "rating": 5.83296,
+    "rank": 9975,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.4559
+  },
+  {
+    "name": "Sense\u00ef",
+    "rating": 6.12943,
+    "rank": 12294,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Senshi",
+    "rating": 6.21215,
+    "rank": 8061,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 1.9
+  },
+  {
+    "name": "Sergeant Major",
+    "rating": 5.51981,
+    "rank": 21783,
+    "minPlayers": 3,
+    "maxPlayers": 3,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 1.8571
+  },
+  {
+    "name": "Sheep Boom Bah",
+    "rating": 5.51407,
+    "rank": 23550,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Shifting Stones",
+    "rating": 6.5036,
+    "rank": 3060,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.2273
+  },
+  {
+    "name": "Shogun",
+    "rating": 7.5152,
+    "rank": 277,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 90,
+    "maxTime": 120,
+    "difficulty": 3.3647
+  },
+  {
+    "name": "Siam",
+    "rating": 6.61306,
+    "rank": 4456,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 2.0714
+  },
+  {
+    "name": "Signorie",
+    "rating": 7.38652,
+    "rank": 969,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 3.5183
+  },
+  {
+    "name": "Similo",
+    "rating": 6.8173,
+    "rank": 1325,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.0413
+  },
+  {
+    "name": "Simplicity",
+    "rating": 5.93889,
+    "rank": 14400,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Skat",
+    "rating": 7.25753,
+    "rank": 2316,
+    "minPlayers": 3,
+    "maxPlayers": 3,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 3.0887
+  },
+  {
+    "name": "Skull",
+    "rating": 7.19065,
+    "rank": 437,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 15,
+    "maxTime": 45,
+    "difficulty": 1.1186
+  },
+  {
+    "name": "Small Islands",
+    "rating": 6.64276,
+    "rank": 3297,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.0455
+  },
+  {
+    "name": "Snekagon",
+    "rating": 5.04545,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 5,
+    "maxTime": 10,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Snow Time",
+    "rating": 6.48545,
+    "rank": 6099,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 1.2308
+  },
+  {
+    "name": "Sobek",
+    "rating": 6.61646,
+    "rank": 2511,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 40,
+    "difficulty": 1.8434
+  },
+  {
+    "name": "Sobek: 2 Players",
+    "rating": 7.17189,
+    "rank": 1567,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.9574
+  },
+  {
+    "name": "Solar Storm",
+    "rating": 6.99886,
+    "rank": 2985,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.0612
+  },
+  {
+    "name": "Solo",
+    "rating": 5.27356,
+    "rank": 26105,
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.0448
+  },
+  {
+    "name": "Soluna",
+    "rating": 5.14319,
+    "rank": 25614,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 10,
+    "difficulty": 1.1667
+  },
+  {
+    "name": "Soulaween",
+    "rating": 6.42685,
+    "rank": 8958,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.4444
+  },
+  {
+    "name": "Space Base",
+    "rating": 7.54709,
+    "rank": 210,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.1229
+  },
+  {
+    "name": "Space Empires 4X",
+    "rating": 7.68353,
+    "rank": 608,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 240,
+    "difficulty": 3.3785
+  },
+  {
+    "name": "Space Station Phoenix",
+    "rating": 7.38709,
+    "rank": 1765,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 3.0185
+  },
+  {
+    "name": "Spades",
+    "rating": 6.78623,
+    "rank": 2081,
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.0222
+  },
+  {
+    "name": "Spirits of the Forest",
+    "rating": 6.78226,
+    "rank": 1946,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.3553
+  },
+  {
+    "name": "Spite & Malice",
+    "rating": 5.81397,
+    "rank": 11172,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.3922
+  },
+  {
+    "name": "Splash Down",
+    "rating": 2.85244,
+    "rank": 25773,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 5,
+    "maxTime": 30,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Splendor",
+    "rating": 7.42142,
+    "rank": 221,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.7814
+  },
+  {
+    "name": "Splito",
+    "rating": 6.72489,
+    "rank": 3842,
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 1.2105
+  },
+  {
+    "name": "Spot it!",
+    "rating": 6.55901,
+    "rank": 1461,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.0301
+  },
+  {
+    "name": "Spots",
+    "rating": 7.16012,
+    "rank": 1363,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 25,
+    "maxTime": 30,
+    "difficulty": 1.38
+  },
+  {
+    "name": "SPYBAM",
+    "rating": 10.0,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Spyrium",
+    "rating": 7.04373,
+    "rank": 924,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 75,
+    "maxTime": 75,
+    "difficulty": 2.8931
+  },
+  {
+    "name": "Squadro",
+    "rating": 6.43446,
+    "rank": 6894,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.6
+  },
+  {
+    "name": "Star Fluxx",
+    "rating": 6.30497,
+    "rank": 2865,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 10,
+    "maxTime": 40,
+    "difficulty": 1.4219
+  },
+  {
+    "name": "Steam Works",
+    "rating": 6.79314,
+    "rank": 3066,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 90,
+    "maxTime": 120,
+    "difficulty": 3.1639
+  },
+  {
+    "name": "SteamRollers",
+    "rating": 6.55401,
+    "rank": 3028,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 2.12
+  },
+  {
+    "name": "Stella: Dixit Universe",
+    "rating": 7.32437,
+    "rank": 1020,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.1471
+  },
+  {
+    "name": "Stick to Colours",
+    "rating": 5.81034,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Stir Fry Eighteen",
+    "rating": 6.10039,
+    "rank": 13792,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 5,
+    "maxTime": 12,
+    "difficulty": 1.2143
+  },
+  {
+    "name": "Stockpile",
+    "rating": 7.45349,
+    "rank": 468,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.1053
+  },
+  {
+    "name": "Stone Age",
+    "rating": 7.52637,
+    "rank": 162,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.4596
+  },
+  {
+    "name": "Stone Age: Anniversary",
+    "rating": 7.96137,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.2879
+  },
+  {
+    "name": "Stone Age: The Expansion",
+    "rating": 7.38062,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.5282
+  },
+  {
+    "name": "Stone Age: The Mammoth Herd",
+    "rating": 7.53524,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 50,
+    "maxTime": 80,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Stone Age: The New Huts",
+    "rating": 7.38655,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.2292
+  },
+  {
+    "name": "Strands",
+    "rating": 6.59685,
+    "rank": 11018,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 2.3333
+  },
+  {
+    "name": "Streets",
+    "rating": 6.68049,
+    "rank": 2809,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.9583
+  },
+  {
+    "name": "Super Fantasy Brawl",
+    "rating": 7.62795,
+    "rank": 1105,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 40,
+    "difficulty": 2.2568
+  },
+  {
+    "name": "Super Mega Lucky Box",
+    "rating": 7.1499,
+    "rank": 1389,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.2182
+  },
+  {
+    "name": "Sushi Go Party!",
+    "rating": 7.39793,
+    "rank": 256,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.3038
+  },
+  {
+    "name": "Sushi Go!",
+    "rating": 7.00386,
+    "rank": 579,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.16
+  },
+  {
+    "name": "Sushi Go!: Soy Sauce Promo",
+    "rating": 6.90475,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.1714
+  },
+  {
+    "name": "Tablut",
+    "rating": 6.29184,
+    "rank": 10072,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.5
+  },
+  {
+    "name": "Takara Island",
+    "rating": 5.80942,
+    "rank": 15947,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.6
+  },
+  {
+    "name": "Take 5",
+    "rating": 6.96748,
+    "rank": 647,
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.1933
+  },
+  {
+    "name": "Takenoko",
+    "rating": 7.21572,
+    "rank": 383,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.9745
+  },
+  {
+    "name": "Talon",
+    "rating": 7.42233,
+    "rank": 2875,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.566
+  },
+  {
+    "name": "Taluva",
+    "rating": 7.14468,
+    "rank": 685,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.255
+  },
+  {
+    "name": "Tang Hu Lu (\u51b0\u7cd6\u846b\u82a6)",
+    "rating": 5.52053,
+    "rank": 21408,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 25,
+    "maxTime": 25,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Tapestry",
+    "rating": 7.45125,
+    "rank": 275,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 90,
+    "maxTime": 120,
+    "difficulty": 2.9362
+  },
+  {
+    "name": "Targi",
+    "rating": 7.61556,
+    "rank": 148,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.3402
+  },
+  {
+    "name": "Tarock",
+    "rating": 7.38123,
+    "rank": 6670,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 3.625
+  },
+  {
+    "name": "Tash-Kalar",
+    "rating": 7.15948,
+    "rank": 755,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.8388
+  },
+  {
+    "name": "Tea Time",
+    "rating": 5.85543,
+    "rank": 11044,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.2
+  },
+  {
+    "name": "Templari",
+    "rating": 5.79891,
+    "rank": 20507,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.25
+  },
+  {
+    "name": "Teotihuacan: City of Gods",
+    "rating": 7.86726,
+    "rank": 85,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 90,
+    "maxTime": 120,
+    "difficulty": 3.7786
+  },
+  {
+    "name": "Terra Mystica",
+    "rating": 8.06441,
+    "rank": 27,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 150,
+    "difficulty": 3.9726
+  },
+  {
+    "name": "Terra Mystica: 4 Town Tiles",
+    "rating": 8.10638,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 100,
+    "maxTime": 100,
+    "difficulty": 3.3125
+  },
+  {
+    "name": "Terra Mystica: Fire & Ice",
+    "rating": 8.42202,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 100,
+    "maxTime": 100,
+    "difficulty": 3.9597
+  },
+  {
+    "name": "Terra Mystica: Landscapes",
+    "rating": 8.17747,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 150,
+    "difficulty": 3.8125
+  },
+  {
+    "name": "Terra Mystica: Shipping Value promo card",
+    "rating": 7.84556,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 100,
+    "maxTime": 100,
+    "difficulty": 3.35
+  },
+  {
+    "name": "Thermopyles",
+    "rating": 3.9151,
+    "rank": 26207,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.2308
+  },
+  {
+    "name": "Thrive",
+    "rating": 6.64019,
+    "rank": 6970,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.4545
+  },
+  {
+    "name": "Through the Ages",
+    "rating": 7.84546,
+    "rank": 86,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": 4.177
+  },
+  {
+    "name": "Through the Ages: A New Story of Civilization",
+    "rating": 8.29291,
+    "rank": 14,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 120,
+    "maxTime": 120,
+    "difficulty": 4.4359
+  },
+  {
+    "name": "Thurn and Taxis",
+    "rating": 7.09135,
+    "rank": 558,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.2588
+  },
+  {
+    "name": "Tic Tac Match",
+    "rating": 4.43645,
+    "rank": 25918,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 5,
+    "maxTime": 10,
+    "difficulty": 1.1667
+  },
+  {
+    "name": "Tichu",
+    "rating": 7.57986,
+    "rank": 225,
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.3406
+  },
+  {
+    "name": "Ticket Gagnant",
+    "rating": 5.95982,
+    "rank": 18101,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Ticket to Ride",
+    "rating": 7.39285,
+    "rank": 236,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.8281
+  },
+  {
+    "name": "Tien Len",
+    "rating": 6.89698,
+    "rank": 10334,
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.8889
+  },
+  {
+    "name": "Tigris & Euphrates",
+    "rating": 7.70535,
+    "rank": 103,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 120,
+    "difficulty": 3.4986
+  },
+  {
+    "name": "Tiki",
+    "rating": 5.95529,
+    "rank": 11737,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 20,
+    "difficulty": 1.9
+  },
+  {
+    "name": "Time Masters",
+    "rating": 6.23695,
+    "rank": 9922,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 35,
+    "maxTime": 35,
+    "difficulty": 2.5
+  },
+  {
+    "name": "Tinners' Trail",
+    "rating": 7.13156,
+    "rank": 1957,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 60,
+    "maxTime": 90,
+    "difficulty": 2.84
+  },
+  {
+    "name": "Tiny Epic Defenders (Second Edition)",
+    "rating": 6.99847,
+    "rank": 2121,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.0208
+  },
+  {
+    "name": "Tiny Farms",
+    "rating": 5.64718,
+    "rank": 19189,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Tiwanaku",
+    "rating": 7.21278,
+    "rank": 2868,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.1923
+  },
+  {
+    "name": "Tobago",
+    "rating": 7.09903,
+    "rank": 635,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.1303
+  },
+  {
+    "name": "Tock",
+    "rating": 5.6,
+    "rank": 21865,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.5
+  },
+  {
+    "name": "ToeShamBo",
+    "rating": 4.85445,
+    "rank": 25858,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 5,
+    "maxTime": 10,
+    "difficulty": 1.1667
+  },
+  {
+    "name": "Tokaido",
+    "rating": 6.93079,
+    "rank": 742,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.7418
+  },
+  {
+    "name": "Tokaido: Crossroads",
+    "rating": 7.47306,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.869
+  },
+  {
+    "name": "Tokaido: The New Encounters",
+    "rating": 6.91392,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.8333
+  },
+  {
+    "name": "Tournay",
+    "rating": 6.95889,
+    "rank": 1485,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.907
+  },
+  {
+    "name": "Tranquility",
+    "rating": 6.97605,
+    "rank": 1581,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 1.3378
+  },
+  {
+    "name": "Tranquility: Stormy Seas",
+    "rating": 7.07556,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Tranquility: The Ascent",
+    "rating": 6.11805,
+    "rank": 10481,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Trasteros Locos: Crazy Auctions",
+    "rating": 8.725,
+    "rank": 0,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Trek 12: At Home \u2013 Semaine 1",
+    "rating": 6.47907,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 50,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Trek 12: At Home \u2013 Semaine 2",
+    "rating": 7.66667,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 50,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Trek 12: de la Saint Valentin",
+    "rating": 6.19231,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Trek 12: Himalaya",
+    "rating": 6.83458,
+    "rank": 1988,
+    "minPlayers": 1,
+    "maxPlayers": 50,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 1.4576
+  },
+  {
+    "name": "Trek 12: Philitrek",
+    "rating": 6.43793,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 50,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Trek 12: Xmas",
+    "rating": 6.87021,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 50,
+    "minTime": 15,
+    "maxTime": 30,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Trekking the World",
+    "rating": 7.10003,
+    "rank": 1421,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.9067
+  },
+  {
+    "name": "Trellis",
+    "rating": 5.99323,
+    "rank": 8856,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.0833
+  },
+  {
+    "name": "TriATri",
+    "rating": 4.82353,
+    "rank": 24008,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Trick of the Rails",
+    "rating": 6.56945,
+    "rank": 3503,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 2.4545
+  },
+  {
+    "name": "Troggu",
+    "rating": 5.71895,
+    "rank": 0,
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Troyes",
+    "rating": 7.71607,
+    "rank": 108,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 90,
+    "maxTime": 90,
+    "difficulty": 3.4588
+  },
+  {
+    "name": "Troyes Dice",
+    "rating": 7.01902,
+    "rank": 1669,
+    "minPlayers": 1,
+    "maxPlayers": 10,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 2.3143
+  },
+  {
+    "name": "Trusis",
+    "rating": 7.10277,
+    "rank": 21759,
+    "minPlayers": 3,
+    "maxPlayers": 30,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 1.8571
+  },
+  {
+    "name": "Tucano",
+    "rating": 6.47081,
+    "rank": 4673,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.0769
+  },
+  {
+    "name": "Tumbleweed",
+    "rating": 7.4682,
+    "rank": 10773,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 2,
+    "maxTime": 200,
+    "difficulty": 2.3333
+  },
+  {
+    "name": "Tuned",
+    "rating": 6.39557,
+    "rank": 11402,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.25
+  },
+  {
+    "name": "Turn the Tide",
+    "rating": 6.78323,
+    "rank": 1469,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.5213
+  },
+  {
+    "name": "Turncoats",
+    "rating": 7.08209,
+    "rank": 3650,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 45,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Twin Palms",
+    "rating": 6.47975,
+    "rank": 8336,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 1.1667
+  },
+  {
+    "name": "Twin Tin Bots",
+    "rating": 6.24112,
+    "rank": 5532,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 50,
+    "maxTime": 50,
+    "difficulty": 2.3902
+  },
+  {
+    "name": "Tzolk'in",
+    "rating": 7.86136,
+    "rank": 60,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 90,
+    "maxTime": 90,
+    "difficulty": 3.6684
+  },
+  {
+    "name": "Ultimate Railroads",
+    "rating": 8.43126,
+    "rank": 0,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 90,
+    "maxTime": 120,
+    "difficulty": 3.2788
+  },
+  {
+    "name": "Ultimate Tic-Tac-Toe",
+    "rating": 5.8663,
+    "rank": 17682,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 5,
+    "maxTime": 15,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Uncle Chestnut's Table Gype",
+    "rating": 6.02702,
+    "rank": 14442,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Unconditional Surrender! World War 2 in Europe",
+    "rating": 8.06417,
+    "rank": 1802,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 3000,
+    "difficulty": 3.7685
+  },
+  {
+    "name": "United Square",
+    "rating": 5.15711,
+    "rank": 25104,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.625
+  },
+  {
+    "name": "Vaalbara",
+    "rating": 7.2557,
+    "rank": 1747,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.7174
+  },
+  {
+    "name": "Vege Tables",
+    "rating": 5.60418,
+    "rank": 22446,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.5
+  },
+  {
+    "name": "Vegetable Stock",
+    "rating": 6.85354,
+    "rank": 3972,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 15,
+    "maxTime": 20,
+    "difficulty": 1.1818
+  },
+  {
+    "name": "Veggie Garden",
+    "rating": 5.71573,
+    "rank": 13962,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.2308
+  },
+  {
+    "name": "VektoRace",
+    "rating": 7.36053,
+    "rank": 3728,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 120,
+    "difficulty": 2.1053
+  },
+  {
+    "name": "Veletas",
+    "rating": 6.43505,
+    "rank": 12691,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Verflixxt!",
+    "rating": 6.48673,
+    "rank": 2436,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.3133
+  },
+  {
+    "name": "Verona Twist",
+    "rating": 6.17552,
+    "rank": 10492,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 30,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Via Magica",
+    "rating": 6.75103,
+    "rank": 2617,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.5
+  },
+  {
+    "name": "Villagers",
+    "rating": 7.15242,
+    "rank": 787,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.1914
+  },
+  {
+    "name": "Viticulture Essential Edition",
+    "rating": 7.98977,
+    "rank": 38,
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "minTime": 45,
+    "maxTime": 90,
+    "difficulty": 2.8905
+  },
+  {
+    "name": "Volfyirion Guilds",
+    "rating": 7.42837,
+    "rank": 6637,
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 40,
+    "difficulty": 2.5
+  },
+  {
+    "name": "Volto",
+    "rating": 6.63146,
+    "rank": 7818,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 5,
+    "maxTime": 5,
+    "difficulty": 1.7778
+  },
+  {
+    "name": "Voyagers",
+    "rating": 4.11111,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 150,
+    "difficulty": 0.0
+  },
+  {
+    "name": "The Voyages of Marco Polo",
+    "rating": 7.78649,
+    "rank": 89,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 40,
+    "maxTime": 100,
+    "difficulty": 3.1819
+  },
+  {
+    "name": "VUGHEX",
+    "rating": 6.70905,
+    "rank": 0,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 30,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Wabash Cannonball",
+    "rating": 7.25037,
+    "rank": 577,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.779
+  },
+  {
+    "name": "War Chest",
+    "rating": 7.85486,
+    "rank": 176,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 2.3045
+  },
+  {
+    "name": "Watergate",
+    "rating": 7.77639,
+    "rank": 152,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 30,
+    "maxTime": 60,
+    "difficulty": 2.269
+  },
+  {
+    "name": "Wazabi",
+    "rating": 5.92269,
+    "rank": 6659,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.087
+  },
+  {
+    "name": "Welcome to New Las Vegas",
+    "rating": 6.7536,
+    "rank": 2412,
+    "minPlayers": 1,
+    "maxPlayers": 50,
+    "minTime": 35,
+    "maxTime": 35,
+    "difficulty": 2.86
+  },
+  {
+    "name": "Welcome To...",
+    "rating": 7.53839,
+    "rank": 178,
+    "minPlayers": 1,
+    "maxPlayers": 100,
+    "minTime": 25,
+    "maxTime": 25,
+    "difficulty": 1.8348
+  },
+  {
+    "name": "The Werewolves of Miller's Hollow",
+    "rating": 6.68968,
+    "rank": 1352,
+    "minPlayers": 8,
+    "maxPlayers": 18,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.3104
+  },
+  {
+    "name": "The Werewolves of Miller's Hollow: The Village",
+    "rating": 6.874,
+    "rank": 3584,
+    "minPlayers": 8,
+    "maxPlayers": 18,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.6944
+  },
+  {
+    "name": "Whist",
+    "rating": 6.4419,
+    "rank": 5936,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Whist 22",
+    "rating": 6.13148,
+    "rank": 16021,
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Wingspan",
+    "rating": 8.05275,
+    "rank": 25,
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "minTime": 40,
+    "maxTime": 70,
+    "difficulty": 2.464
+  },
+  {
+    "name": "Wizard",
+    "rating": 6.97357,
+    "rank": 848,
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.7184
+  },
+  {
+    "name": "Worldwide Tennis",
+    "rating": 5.61967,
+    "rank": 20647,
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 90,
+    "difficulty": 1.7
+  },
+  {
+    "name": "Xanad\u00fa",
+    "rating": 6.46615,
+    "rank": 5862,
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "minTime": 40,
+    "maxTime": 70,
+    "difficulty": 2.2069
+  },
+  {
+    "name": "Xiangqi",
+    "rating": 7.10747,
+    "rank": 1902,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 60,
+    "maxTime": 60,
+    "difficulty": 3.5672
+  },
+  {
+    "name": "Yahtzee",
+    "rating": 5.4921,
+    "rank": 25788,
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minTime": 30,
+    "maxTime": 30,
+    "difficulty": 1.1779
+  },
+  {
+    "name": "Yaniv",
+    "rating": 5.64978,
+    "rank": 20523,
+    "minPlayers": 2,
+    "maxPlayers": 10,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 1.3333
+  },
+  {
+    "name": "Yin Yang",
+    "rating": 5.74364,
+    "rank": 21782,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 20,
+    "maxTime": 20,
+    "difficulty": 0.0
+  },
+  {
+    "name": "Y\u014dkai",
+    "rating": 6.6598,
+    "rank": 3845,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 15,
+    "maxTime": 35,
+    "difficulty": 1.5517
+  },
+  {
+    "name": "Yokai Septet",
+    "rating": 7.30603,
+    "rank": 2964,
+    "minPlayers": 3,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 45,
+    "difficulty": 1.7692
+  },
+  {
+    "name": "Yokohama",
+    "rating": 7.8096,
+    "rank": 140,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 90,
+    "maxTime": 90,
+    "difficulty": 3.3047
+  },
+  {
+    "name": "Yoxii",
+    "rating": 6.69602,
+    "rank": 8652,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 15,
+    "maxTime": 15,
+    "difficulty": 1.5
+  },
+  {
+    "name": "Yspahan",
+    "rating": 7.06145,
+    "rank": 805,
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "minTime": 45,
+    "maxTime": 60,
+    "difficulty": 2.3707
+  },
+  {
+    "name": "Zefiria",
+    "rating": 6.32222,
+    "rank": 11897,
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "minTime": 30,
+    "maxTime": 0,
+    "difficulty": 2.0
+  },
+  {
+    "name": "Zener",
+    "rating": 5.38169,
+    "rank": 23305,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 10,
+    "maxTime": 15,
+    "difficulty": 1.0
+  },
+  {
+    "name": "Zola",
+    "rating": 4.58919,
+    "rank": 25374,
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "minTime": 0,
+    "maxTime": 0,
+    "difficulty": 1.6667
+  },
+  {
+    "name": "Zooloretto",
+    "rating": 6.79468,
+    "rank": 1001,
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "minTime": 45,
+    "maxTime": 45,
+    "difficulty": 1.8573
+  }
+]
