@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Board Game Planner</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Palette+Mosaic&family=Gamja+Flower&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --pencil-black: #2d3436;
+            --paper-white: #fffdf5;
+            --marker-blue: #4a90e2;
+            --marker-pink: #ff6b6b;
+            --marker-green: #6ab04c;
+            --eraser-main: #95818D;
+            --eraser-light: #B5A4AE;
+        }
+
+        body {
+            font-family: 'Gamja Flower', cursive;
+            background-color: #e5e5e5;
+            background-image: radial-gradient(#d1d1d1 1px, transparent 1px);
+            background-size: 30px 30px;
+            color: var(--pencil-black);
+            margin: 0; padding: 0;
+            height: 100vh; overflow: hidden;
+            display: flex; flex-direction: column;
+        }
+
+        header { padding: 60px 0 10px 0; text-align: center; flex-shrink: 0; }
+        h1 { font-family: 'Palette Mosaic', system-ui; font-size: 7rem !important; margin: 0 !important; line-height: 1 !important; font-weight: normal !important; display: inline-block; letter-spacing: -1px; color: var(--pencil-black); }
+        .sub-title { font-size: 2.2rem; opacity: 0.6; display: block; margin-top: 5px; letter-spacing: 1px; }
+
+        .app-container { display: flex; gap: 15px; padding: 0 20px 20px 20px; flex: 1; overflow: hidden; max-width: 1800px; margin: 0 auto; width: 100%; }
+
+        .hand-drawn-card {
+            background: var(--paper-white); border: 3px solid var(--pencil-black);
+            border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+            box-shadow: 12px 12px 0px rgba(0,0,0,0.05);
+            display: flex; flex-direction: column; overflow: hidden;
+            position: relative;
+        }
+
+        .main-library { flex: 3.5; }
+        .selection-storage { flex: 1; min-width: 380px; }
+
+        .scroll-area { flex: 1; overflow-y: auto; padding: 0 20px; }
+        .card-header { padding: 35px 25px 15px 25px; flex-shrink: 0; }
+
+        .btn-sketch, .custom-select-trigger {
+            border: 2px solid var(--pencil-black);
+            border-radius: 12% 88% 15% 85% / 84% 12% 88% 16%;
+            padding: 6px 20px; font-weight: bold; transition: all 0.2s; cursor: pointer;
+            background: white; line-height: 1.1; font-size: 1.8rem;
+            display: inline-flex; align-items: center; justify-content: center; height: 48px; outline: none;
+        }
+        .btn-sketch:hover { transform: rotate(-1.5deg) scale(1.03); background: #fffdf5; }
+        .btn-blue { background: #eef7ff; color: var(--marker-blue); border-color: var(--marker-blue); }
+        .btn-pink { background: #fff5f5; color: var(--marker-pink); border-color: var(--marker-pink); }
+        .btn-green { background: #f0fff4; color: var(--marker-green); border-color: var(--marker-green); }
+
+        .line-input {
+            cursor: text; width: 100%; background: transparent; border: none;
+            border-bottom: 3px solid var(--pencil-black); height: 40px;
+            outline: none; font-family: 'Gamja Flower', cursive;
+            font-size: 1.8rem; padding: 0 8px;
+        }
+
+        .eraser-btn {
+            width: 45px; height: 26px;
+            background: var(--eraser-main);
+            border: 2px solid var(--pencil-black);
+            border-radius: 3px;
+            position: relative; cursor: pointer;
+            transition: transform 0.2s;
+            box-shadow: -2px 2px 0 rgba(0,0,0,0.1);
+            display: inline-block; margin-left: 15px; vertical-align: middle;
+        }
+        .eraser-btn::before {
+            content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 40%;
+            background: var(--eraser-light); border-bottom: 1px solid var(--pencil-black);
+        }
+        .eraser-btn:hover { transform: scale(1.1) rotate(8deg); }
+
+        .custom-select-wrapper { position: relative; display: inline-block; min-width: 200px; }
+        .custom-select-trigger { width: 100%; justify-content: space-between; }
+        .custom-options {
+            position: absolute; top: 46px; left: 0; width: 100%;
+            background: var(--paper-white); border: 2px solid var(--pencil-black); border-radius: 0 0 15px 15px; z-index: 1000; display: none;
+        }
+        .custom-options.show { display: block; }
+        .custom-option { padding: 10px 15px; cursor: pointer; font-size: 1.7rem; border-bottom: 1px dashed rgba(0,0,0,0.1); }
+        .custom-option:hover { background: #fff4b0; }
+
+        table { width: 100%; border-collapse: collapse; }
+        th { position: sticky; top: 0; background: var(--paper-white); border-bottom: 4px solid var(--pencil-black); padding: 12px; font-size: 2rem; z-index: 10; text-align: center; cursor: pointer; }
+        th:hover { color: var(--marker-blue); }
+
+        td { padding: 10px 8px; border-bottom: 1px dashed #ddd; font-size: 1.8rem; text-align: center; }
+        .game-name { font-size: 1.8rem !important; color: #222; font-weight: bold; text-align: left !important; }
+
+        .row-index { opacity: 0.3; font-weight: bold; width: 50px; }
+        .list-item { padding: 8px 12px; border-bottom: 2px solid rgba(0,0,0,0.03); cursor: pointer; font-size: 1.8rem; text-align: left !important; }
+        .list-item:hover { background: #eef7ff; transform: skewX(-2deg); }
+
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-thumb { background: #d4a373; border-radius: 10px; }
+    </style>
+</head>
+
+<body>
+<header>
+    <h1>BOARD GAME PLANNER</h1>
+    <span class="sub-title">Plan your next game.</span>
+</header>
+
+<div class="app-container">
+    <div class="main-library hand-drawn-card">
+        <div class="card-header">
+            <div class="flex flex-wrap gap-8 items-center">
+                <div class="flex items-center gap-3 flex-1 min-w-[280px]">
+                    <span class="text-3xl font-bold">Command:</span>
+                    <input type="text" id="filterInput" onkeydown="handleKeyPress(event)"
+                           class="line-input"
+                           placeholder="Filter by name... or 'add 1', 'remove 1-3'">
+                </div>
+                <div class="flex items-center gap-3">
+                    <span class="text-3xl font-bold">Sort By:</span>
+                    <div class="custom-select-wrapper">
+                        <div class="custom-select-trigger" onclick="toggleDropdown()">
+                            <span id="triggerLabel">Name</span>
+                            <div style="width: 10px; height: 10px; border-right: 3px solid; border-bottom: 3px solid; transform: rotate(45deg); margin-top:-5px"></div>
+                        </div>
+                        <div class="custom-options" id="selectOptions">
+                            <div class="custom-option" onclick="selectSort('NAME', 'Name')">Name</div>
+                            <div class="custom-option" onclick="selectSort('RATING', 'Rating')">Rating</div>
+                            <div class="custom-option" onclick="selectSort('RANK', 'Rank')">Rank</div>
+                            <div class="custom-option" onclick="selectSort('DIFFICULTY', 'Complexity')">Complexity</div>
+                            <div class="custom-option" onclick="selectSort('MIN_PLAYERS', 'Min Players')">Min Players</div>
+                            <div class="custom-option" onclick="selectSort('MAX_PLAYERS', 'Max Players')">Max Players</div>
+                            <div class="custom-option" onclick="selectSort('MIN_TIME', 'Min Time')">Min Time</div>
+                            <div class="custom-option" onclick="selectSort('MAX_TIME', 'Max Time')">Max Time</div>
+                        </div>
+                    </div>
+                </div>
+                <button id="orderBtn" onclick="toggleOrder()" class="btn-sketch btn-blue">ASC</button>
+                <button onclick="resetPlanner()" class="btn-sketch btn-pink">Reset</button>
+            </div>
+        </div>
+        <div class="scroll-area">
+            <table>
+                <thead>
+                <tr>
+                    <th>#</th>
+                    <th onclick="clickHeader('NAME')" style="text-align: left; padding-left: 8px;">Game</th>
+                    <th onclick="clickHeader('RATING')">Score</th>
+                    <th onclick="clickHeader('RANK')">Rank</th>
+                    <th onclick="clickHeader('MAX_PLAYERS')">Players</th>
+                    <th onclick="clickHeader('MAX_TIME')">Time</th>
+                    <th onclick="clickHeader('DIFFICULTY')">Comp.</th>
+                    <th class="text-right">Pick</th>
+                </tr>
+                </thead>
+                <tbody id="gameBody"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="selection-storage hand-drawn-card">
+        <div class="card-header border-b-2 border-dashed border-gray-400">
+            <div class="flex items-center justify-between">
+                <h3 class="text-5xl font-bold">My Play List</h3>
+                <div class="eraser-btn" title="Clear All" onclick="clearList()"></div>
+            </div>
+            <p class="text-2xl opacity-50 italic mt-2">(Double-click to remove)</p>
+        </div>
+        <div class="scroll-area"><ul id="myListContainer"></ul></div>
+        <div class="p-6 text-center">
+            <button onclick="exportList()" class="btn-sketch btn-blue text-2xl px-12 h-12">Export</button>
+        </div>
+    </div>
+</div>
+
+<script>
+    let isAscending = true;
+    let currentSort = 'NAME';
+    let currentList = [];
+
+    function toggleDropdown() { document.getElementById('selectOptions').classList.toggle('show'); }
+    function selectSort(v, l) { currentSort = v; document.getElementById('triggerLabel').innerText = l; document.getElementById('selectOptions').classList.remove('show'); loadGames(); }
+    window.onclick = e => { if (!e.target.closest('.custom-select-wrapper')) document.getElementById('selectOptions').classList.remove('show'); }
+
+    async function handleKeyPress(event) {
+        if (event.key === "Enter") {
+            const input = document.getElementById('filterInput');
+            const val = input.value.trim();
+            if (val.toLowerCase().startsWith("add ") || val.toLowerCase().startsWith("remove ")) {
+                const cmd = val.split(" ")[0].toLowerCase();
+                const payload = val.substring(cmd.length + 1).trim();
+                if (cmd === "add") await addToMyList(payload);
+                else await removeOneFromList(payload);
+                input.value = "";
+            } else { await loadGames(); }
+        }
+    }
+
+    // 核心修复：完善点击表头时的参数映射
+    function clickHeader(f) {
+        const labels = {
+            'NAME':'Name', 'RATING':'Rating', 'RANK':'Rank',
+            'DIFFICULTY':'Complexity', 'MIN_PLAYERS':'Min Players',
+            'MAX_PLAYERS':'Players', 'MIN_TIME':'Min Time', 'MAX_TIME':'Time'
+        };
+        selectSort(f, labels[f] || f);
+    }
+
+    function toggleOrder() { isAscending = !isAscending; document.getElementById('orderBtn').innerText = isAscending ? "ASC" : "DESC"; loadGames(); }
+
+    async function loadGames() {
+        const filterVal = document.getElementById('filterInput').value.trim();
+        const url = `/api/games?filter=${encodeURIComponent(filterVal)}&sortOn=${currentSort}&asc=${isAscending}`;
+        try {
+            const res = await fetch(url);
+            const games = await res.json();
+            const tbody = document.getElementById('gameBody');
+            tbody.innerHTML = games.map((g, i) => `<tr><td class="row-index">${i+1}</td><td class="game-name">${g.name}</td><td style="color:var(--marker-blue); font-weight:bold;">${g.rating.toFixed(1)}</td><td class="opacity-60">#${g.rank}</td><td>${g.minPlayers}-${g.maxPlayers}</td><td>${g.minPlayTime}m</td><td style="color:var(--marker-pink); font-weight:bold;">${g.difficulty.toFixed(1)}</td><td class="text-right"><button class="btn-sketch btn-green text-xl px-4 h-10" onclick="addToMyList('${g.name.replace(/'/g, "\\'")}')">Pick!</button></td></tr>`).join('');
+        } catch (e) { console.error(e); }
+    }
+
+    async function addToMyList(n) {
+        const f = document.getElementById('filterInput').value;
+        const res = await fetch(`/api/list/add?cmd=${encodeURIComponent(n)}&filter=${encodeURIComponent(f)}`, { method: 'POST' });
+        if (res.ok) renderMyList(await res.json());
+    }
+
+    async function removeOneFromList(n) {
+        const res = await fetch(`/api/list/remove?cmd=${encodeURIComponent(n)}`, { method: 'POST' });
+        if (res.ok) renderMyList(await res.json());
+    }
+
+    function renderMyList(l) {
+        currentList = l || [];
+        const c = document.getElementById('myListContainer');
+        if (currentList.length === 0) { c.innerHTML = '<li class="empty-msg opacity-30 text-center py-10 text-3xl">Empty...</li>'; return; }
+        c.innerHTML = currentList.map((name, i) => `<li class="list-item" ondblclick="removeOneFromList('${name.replace(/'/g, "\\'")}')"><span class="mr-2 opacity-40 font-bold">${i+1}.</span> ${name}</li>`).join('');
+    }
+
+    function exportList() {
+        if (currentList.length === 0) return;
+        const content = "MY PLAY LIST\n" + currentList.map((n, i) => `${i+1}. ${n}`).join("\n");
+        const blob = new Blob([content], { type: "text/plain" });
+        const a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = "boardgame_list.txt";
+        a.click();
+    }
+
+    async function resetPlanner() { await fetch('/api/reset', { method: 'POST' }); document.getElementById('filterInput').value = ''; loadGames(); }
+    async function clearList() { const res = await fetch('/api/list/clear', { method: 'POST' }); if (res.ok) renderMyList(await res.json()); }
+    window.onload = () => { loadGames(); fetch('/api/list').then(res => res.json()).then(renderMyList); };
+</script>
+</body>
+</html>
